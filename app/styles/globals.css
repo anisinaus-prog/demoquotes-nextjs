@@ -1,0 +1,38 @@
+@import 'tailwindcss';
+/*@plugin "daisyui";*/
+@plugin "daisyui" {
+  themes: light --default, dark --prefersdark, cupcake;
+}
+
+/* Custom colors */
+:root {
+  --primary-blue: #1e40af;
+  --secondary-green: #16a34a;
+  --highlight-yellow: #facc15;
+  --cta-orange: #f97316;
+  --faq-purple: #7c3aed;
+}
+
+/* Example utility classes for consistent spacing & font */
+.text-primary {
+  color: var(--primary-blue);
+}
+.bg-primary {
+  background-color: var(--primary-blue);
+}
+.bg-secondary {
+  background-color: var(--secondary-green);
+}
+.bg-cta {
+  background-color: var(--cta-orange);
+}
+.bg-highlight {
+  background-color: var(--highlight-yellow);
+}
+.text-faq {
+  color: var(--faq-purple);
+}
+
+.dropdown {
+  top: calc(100% - 1px);
+}
