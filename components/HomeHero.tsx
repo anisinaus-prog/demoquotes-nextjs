@@ -82,37 +82,8 @@ export default function Hero() {
         </div>
       </div>
     </section>
-<<<<<<< HEAD
   );
 }
-
-
-/* ----------------------------------------
-   Stat Card
------------------------------------------ */
-
-function Stat({
-  number,
-  label,
-}: {
-  number: string;
-  label: string;
-}) {
-  return (
-    <div className="rounded-2xl border border-white/10 bg-white/5 p-5 backdrop-blur-sm">
-      <div className="text-2xl font-extrabold text-orange-400 sm:text-3xl">
-        {number}
-      </div>
-
-      <p className="mt-2 text-sm text-slate-300">
-        {label}
-      </p>
-    </div>
-=======
->>>>>>> e18a20c914d1df4a94efea7f6a5c59077378b8a4
-  );
-}
-
 
 /* ----------------------------------------
    Stat Card

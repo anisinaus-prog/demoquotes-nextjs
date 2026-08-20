@@ -5,12 +5,6 @@ import { useLoadScript } from '@react-google-maps/api';
 import AddressAutocompleteInput from '@/components/AddressAutocompleteInput';
 import GoogleMapsProvider from '@/components/GoogleMapsProvider';
 
-export const metadata = {
-  title: 'Get Free Asbestos Removal Quotes in Australia',
-  description:
-    'Compare licensed asbestos contractors across Australia. Get free, fast, no-obligation quotes for residential, commercial, and concrete removal projects.',
-};
-
 
 export default function AsbestosRemovalPage() {
   const [form, setForm] = useState({
