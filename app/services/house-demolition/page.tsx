@@ -418,3 +418,32 @@ export default function HouseDemolition() {
     </div>
   );
 }
+
+<script
+type="application/ld+json"
+dangerouslySetInnerHTML={{
+__html: JSON.stringify({
+"@context": "https://schema.org",
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"name": "Home",
+"item": "https://demolitionquotes.com.au"
+},
+{
+"@type": "ListItem",
+"position": 2,
+"name": "Services",
+"item": "https://demolitionquotes.com.au/services"
+},
+{
+"@type": "ListItem",
+"position": 3,
+"name": service.title
+}
+]
+})
+}}
+/>
