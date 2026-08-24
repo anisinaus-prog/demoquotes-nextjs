@@ -42,5 +42,6 @@ Take your time and compare contractors before making your decision.
     title: 'Concrete Removal & Excavation – DemolitionQuotes.com.au',
     description:
       'Fast and safe concrete removal and excavation services. Compare licensed contractors and get free quotes instantly.',
+    content: '',
   },
 ];
