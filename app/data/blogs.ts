@@ -7,7 +7,7 @@ export type Blog = {
 
 export const blogs: Blog[] = [
   {
-    slug: 'demo-post-1',
+    slug: '5-things-to-know-before-hiring-a-demolition-contractor',
     title: '5 Things to Know Before Hiring a Contractor',
     description:
       'Learn key tips before hiring demolition contractors.',
@@ -35,5 +35,12 @@ Make sure the contractor has suitable insurance.
 
 Take your time and compare contractors before making your decision.
 `,
+  },
+
+  {
+    slug: 'concrete-removal',
+    title: 'Concrete Removal & Excavation – DemolitionQuotes.com.au',
+    description:
+      'Fast and safe concrete removal and excavation services. Compare licensed contractors and get free quotes instantly.',
   },
 ];
