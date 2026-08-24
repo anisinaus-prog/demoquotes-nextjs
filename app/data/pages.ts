@@ -27,11 +27,5 @@ export const blogs = [
     description:
       'Learn the top 5 tips before hiring a demolition contractor. Save time, money, and avoid mistakes with licensed professionals.',
   },
-  {
-    slug: 'how-to-choose-the-right-demolition-company',
-    title:
-      'How to Choose the Right Demolition Company – DemolitionQuotes.com.au',
-    description:
-      'Step-by-step guide to selecting the best demolition contractor for your project. Licensed, insured, and trusted.',
-  },
+ 
 ];
