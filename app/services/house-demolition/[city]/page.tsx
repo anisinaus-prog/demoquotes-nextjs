@@ -1,39 +1,60 @@
-const cityData: Record<string, any> = {
+import type { Metadata } from 'next';
+
+type Props = {
+  params: {
+    city: string;
+  };
+};
+
+const cityData: Record<
+  string,
+  {
+    title: string;
+    description: string;
+  }
+> = {
   sydney: {
     title: 'House Demolition Sydney',
     description:
       'Professional house demolition services in Sydney. Safe, fast, and fully licensed demolition contractors.',
   },
+
   melbourne: {
     title: 'House Demolition Melbourne',
     description:
       'Expert house demolition services in Melbourne with safe and compliant site clearance.',
   },
+
   brisbane: {
     title: 'House Demolition Brisbane',
     description:
       'Reliable house demolition contractors in Brisbane for residential and commercial projects.',
   },
+
   perth: {
     title: 'House Demolition Perth',
     description:
       'Affordable and safe house demolition services across Perth and surrounding suburbs.',
   },
+
   adelaide: {
     title: 'House Demolition Adelaide',
     description:
       'Professional demolition contractors in Adelaide for complete house removal services.',
   },
+
   darwin: {
     title: 'House Demolition Darwin',
     description:
       'Trusted house demolition services in Darwin with safe and efficient execution.',
   },
+
   canberra: {
     title: 'House Demolition Canberra',
     description:
       'Licensed demolition experts in Canberra for residential house demolition projects.',
   },
+
   hobart: {
     title: 'House Demolition Hobart',
     description:
@@ -41,6 +62,25 @@ const cityData: Record<string, any> = {
   },
 };
 
+export async function generateMetadata({
+  params,
+}: Props): Promise<Metadata> {
+  const city = params.city.toLowerCase();
+  const data = cityData[city];
+
+  if (!data) {
+    return {
+      title: 'House Demolition Contractors | Free Quotes',
+      description:
+        'Find professional house demolition contractors and get free quotes.',
+    };
+  }
+
+  return {
+    title: data.title,
+    description: data.description,
+  };
+}
 export default function Page({ params }: { params: { city: string } }) {
   const cityKey = params.city.toLowerCase();
   const data = cityData[cityKey];
@@ -72,7 +112,7 @@ export default function Page({ params }: { params: { city: string } }) {
 
           <div className="mt-10">
             <a
-              href="/get-quote"
+              href="/get-a-quote"
               className="inline-flex rounded-2xl bg-orange-600 px-8 py-4 text-lg font-bold hover:bg-orange-700 transition"
             >
               Get Free Quote

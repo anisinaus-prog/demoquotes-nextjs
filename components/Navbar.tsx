@@ -112,7 +112,7 @@ export default function Navbar() {
           </Link>
 
           <Link
-            href="#contact"
+            href="/contact"
             className="font-semibold text-slate-700 transition hover:text-orange-600"
           >
             Contact
@@ -208,7 +208,7 @@ export default function Navbar() {
             </Link>
 
             <Link
-              href="#contact"
+              href="/contact"
               onClick={() => setIsOpen(false)}
               className="font-semibold text-slate-700 hover:text-orange-600"
             >
