@@ -50,6 +50,14 @@ export default function BlogPost({ params }: Props) {
 
         <div className="mt-10 border-t border-gray-200 pt-8">
           <MarkdownContent content={blog.content} />
+          <div className="mt-10">
+              <a
+                href="/get-a-quote"
+                className="inline-block rounded-xl bg-orange-600 px-5 py-3 font-semibold text-white shadow-lg shadow-orange-500/20 transition hover:bg-orange-700"
+              >
+                Get a Quote
+              </a>
+            </div>
         </div>
   
         <div className="mt-12">
