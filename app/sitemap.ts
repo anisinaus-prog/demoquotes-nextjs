@@ -1,23 +1,78 @@
-// Google will read:
-// demolitionquotes.com.au/sitemap.xml
+import type { MetadataRoute } from 'next';
+import { cities } from '@/app/data/cities';
+import { suburbsOfSydney } from '@/app/data/suburbs';
 
-export default function sitemap() {
+export default function sitemap(): MetadataRoute.Sitemap {
+  const baseUrl = 'https://demoquotes.com.au';
+
+  // City pages
+  const cityUrls = cities.map((city) => ({
+    url: `${baseUrl}/services/house-demolition/${city}`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly' as const,
+    priority: 0.8,
+  }));
+
+  // Sydney suburb pages
+  const suburbUrls = suburbsOfSydney.map((suburb) => ({
+    url: `${baseUrl}/services/house-demolition/sydney/${suburb}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
+  }));
+
+  // Main service pages
+  const serviceUrls: MetadataRoute.Sitemap = [
+
+    {
+      url: `${baseUrl}/services/asbestos-removal`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: `${baseUrl}/services/excavation-works`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },    {
+      url: `${baseUrl}/services/house-demolition`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: `${baseUrl}/services/commercial`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+  ];
+
   return [
+    // Homepage
     {
-      url: "https://demolitionquotes.com.au",
+      url: baseUrl,
       lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 1,
     },
+
+    // Quote page
     {
-      url: "https://demolitionquotes.com.au/services/residential-demolition",
+      url: `${baseUrl}/get-a-quote`,
       lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.9,
     },
-    {
-      url: "https://demolitionquotes.com.au/services/commercial-demolition",
-      lastModified: new Date(),
-    },
-    {
-      url: "https://demolitionquotes.com.au/services/concrete-removal",
-      lastModified: new Date(),
-    },
+
+    // Service pages
+    ...serviceUrls,
+
+    // City pages
+    ...cityUrls,
+
+    // Sydney suburb pages
+    ...suburbUrls,
   ];
 }

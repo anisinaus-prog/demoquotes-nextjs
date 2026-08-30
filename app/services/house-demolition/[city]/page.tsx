@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import {cities } from '@/app/data/cities';
 
 type Props = {
   params: {
@@ -14,9 +15,9 @@ const cityData: Record<
   }
 > = {
   sydney: {
-    title: 'House Demolition Sydney',
+    title: 'Best House Demolition Sydney',
     description:
-      'Professional house demolition services in Sydney. Safe, fast, and fully licensed demolition contractors.',
+      'Get and compare house demolition prices in Sydney. Safe, fast, and fully licensed demolition contractors. Get more bang for your bucks.',
   },
 
   melbourne: {
