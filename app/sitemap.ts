@@ -1,6 +1,7 @@
 import type { MetadataRoute } from 'next';
 import { cities } from '@/app/data/cities';
 import { suburbsOfSydney } from '@/app/data/suburbs';
+import { blogs } from '@/app/data/blogs'
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://demoquotes.com.au';
@@ -20,6 +21,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     changeFrequency: 'monthly' as const,
     priority: 0.7,
   }));
+  
+  // Blog pages 
+  const blogPages: MetadataRoute.Sitemap = blogs.map((blog) => ({ 
+    url: `${baseUrl}/${blog.slug}`, 
+    lastModified: new Date(), 
+    changeFrequency: 'monthly', 
+    priority: 0.7, }));
 
   // Main service pages
   const serviceUrls: MetadataRoute.Sitemap = [
@@ -47,6 +55,20 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.8,
     },
+    {
+      url: `${baseUrl}/services/concrete-removal`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: `${baseUrl}/blog`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    
+
   ];
 
   return [
@@ -74,5 +96,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
     // Sydney suburb pages
     ...suburbUrls,
+    
+    // Blog pages
+    ...blogPages,
   ];
 }
