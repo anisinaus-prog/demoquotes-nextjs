@@ -125,7 +125,7 @@ Before any work starts, you need the right permits. Most councils in Australia n
 
 ## Step 2: Asbestos Testing and Removal
 
-If your home was built before 1990, it likely has asbestos somewhere in it. A licensed inspector will need to test the house first. If asbestos is found, it must be removed safely by trained professionals. This step can add anywhere from a few days to two weeks to the schedule. That depends on how much asbestos and where it is found. You can learn more about handling asbestos from your state's [Environment Protection Authority](https://www.epa.nsw.gov.au/your-environment/asbestos).
+If your home was built before 1990, it likely has asbestos somewhere in it. A licensed inspector will need to test the house first. If asbestos is found, it must be removed safely by trained professionals. This step can add anywhere from a few days to two weeks to the schedule. That depends on how much asbestos and where it is found. You can learn more about handling asbestos from your state's [Environment Protection Authority](https://www.epa.nsw.gov.au/Your-environment/Waste/industrial-waste/asbestos-waste).
 
 ## Step 3: Disconnecting Services
 

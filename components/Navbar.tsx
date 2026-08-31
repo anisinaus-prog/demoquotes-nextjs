@@ -26,7 +26,6 @@ export default function Navbar() {
           )}
           
         </Link>
-
         {/* Desktop Menu */}
         <nav className="hidden items-center gap-4 md:flex">
          <Link
@@ -92,6 +91,12 @@ export default function Navbar() {
                   >
                     Excavation Works
                   </Link>
+                   <Link
+                    href="/services/concrete-removal"
+                    className="rounded-xl px-4 py-3 text-slate-700 transition hover:bg-orange-50 hover:text-orange-600"
+                  >
+                    Concrete Removal
+                  </Link>
                 </div>
               </div>
             )}
@@ -102,6 +107,13 @@ export default function Navbar() {
             className="font-semibold text-slate-700 transition hover:text-orange-600"
           >
             How It Works
+          </Link>
+
+          <Link
+            href="/blog"
+            className="font-semibold text-slate-700 transition hover:text-orange-600"
+          >
+            Blog
           </Link>
 
           <Link
@@ -188,6 +200,13 @@ export default function Navbar() {
                 >
                   Excavation Works
                 </Link>
+                <Link
+                  href="/services/excavation-works"
+                  onClick={() => setIsOpen(false)}
+                  className="rounded-lg px-3 py-2 font-medium text-slate-700 hover:bg-orange-50 hover:text-orange-600"
+                >
+                    Concrete Removal
+                  </Link>
               </div>
             </div>
 
@@ -197,6 +216,13 @@ export default function Navbar() {
               className="font-semibold text-slate-700 hover:text-orange-600"
             >
               How It Works
+            </Link>
+            <Link
+              href="/blog"
+              onClick={() => setIsOpen(false)}
+              className="font-semibold text-slate-700 hover:text-orange-600"
+            >
+              Blog
             </Link>
 
             <Link

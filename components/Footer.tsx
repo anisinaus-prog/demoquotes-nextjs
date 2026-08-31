@@ -42,6 +42,12 @@ export default function Footer() {
             >
               Commercial Demolition
             </Link>
+            <Link
+              href="/services/concrete-removal"
+              className="transition hover:text-orange-400"
+            >
+              Concrete Removal
+            </Link>
           </div>
         </div>
 

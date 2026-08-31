@@ -92,21 +92,44 @@ export default function Page({ params }: Props) {
 <section className="py-20">
   <div className="mx-auto max-w-4xl px-6 lg:px-8">
 
+<section className="py-20">
+  <div className="mx-auto max-w-4xl px-6 lg:px-8">
+
     {getSuburbDemolitionContent(suburbName).map((section) => (
       <section key={section.title} className="mb-12">
+
         <h2 className="mb-5 text-3xl font-extrabold text-slate-900">
           {section.title}
         </h2>
 
         <div className="space-y-5 text-lg leading-8 text-slate-700">
-          {section.paragraphs.map((paragraph) => (
-            <p key={paragraph}>
-              {paragraph}
+
+          {section.paragraphs.map((paragraph, index) => (
+            <p key={index}>
+              {paragraph.map((part, partIndex) =>
+                typeof part === 'string' ? (
+                  part
+                ) : (
+                  <a
+                    key={partIndex}
+                    href={part.href}
+                    className="font-semibold text-orange-600 hover:text-orange-700 hover:underline"
+                  >
+                    {part.text}
+                  </a>
+                )
+              )}
             </p>
           ))}
+
         </div>
+
       </section>
     ))}
+
+  </div>
+</section>
+    
 
   </div>
 </section>

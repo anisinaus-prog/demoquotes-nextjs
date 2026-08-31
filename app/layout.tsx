@@ -11,11 +11,11 @@ export const metadata = {
     title: 'DemolitionQuotes.com.au – Get Free Demolition Quotes',
     description:
       'Compare demolition contractors and receive free quotes for residential and commercial demolition projects.',
-    url: 'https://demolitionquotes.com.au',
+    url: 'https://demoquotes.com.au',
     siteName: 'DemolitionQuotes',
     images: [
       {
-        url: 'https://demolitionquotes.com.au/og-image.jpg',
+        url: 'https://demoquotes.com.au/og-image.jpg',
         width: 1200,
         height: 630,
         alt: 'Demolition Quotes Australia',
@@ -30,7 +30,7 @@ export const metadata = {
     title: 'DemolitionQuotes.com.au',
     description:
       'Get free demolition quotes from licensed contractors across Australia.',
-    images: ['https://demolitionquotes.com.au/og-image.jpg'],
+    images: ['https://demoquotes.com.au/og-image.jpg'],
   },
 };
 
