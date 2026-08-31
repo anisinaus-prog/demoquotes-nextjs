@@ -183,7 +183,7 @@ export default function HouseDemolitionCalculator() {
 
         <input
           type="range"
-          min="150"
+          min="100"
           max="500"
           value={houseSize}
           onChange={(e) => setHouseSize(Number(e.target.value))}
