@@ -5,7 +5,7 @@ import { useMemo, useState } from "react";
 export default function HouseDemolitionCalculator() {
   const [postcode, setPostcode] = useState("");
 
-  const [houseSize, setHouseSize] = useState(100);
+  const [houseSize, setHouseSize] = useState(120);
 
   const [houseType, setHouseType] = useState("fibro");
   const [asbestos, setAsbestos] = useState("no");
@@ -191,7 +191,7 @@ export default function HouseDemolitionCalculator() {
         />
 
         <div className="mt-2 flex justify-between text-xs text-slate-500">
-          <span>150 m²</span>
+          <span>100 m²</span>
           <span>500 m²</span>
         </div>
 
