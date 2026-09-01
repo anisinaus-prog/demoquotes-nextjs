@@ -7,21 +7,39 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://demoquotes.com.au';
 
   // City pages
-  const cityUrls = cities.map((city) => ({
-    url: `${baseUrl}/services/house-demolition/${city}`,
-    lastModified: new Date(),
-    changeFrequency: 'weekly' as const,
-    priority: 0.8,
-  }));
+  const cityUrls = [
+    ...cities.map((city) => ({
+      url: `${baseUrl}/services/house-demolition/${city}`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.8,
+    })),
+
+    ...cities.map((city) => ({
+      url: `${baseUrl}/services/asbestos-removal/${city}`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.8,
+    })),
+  ];
 
   // Sydney suburb pages
-  const suburbUrls = suburbsOfSydney.map((suburb) => ({
-    url: `${baseUrl}/services/house-demolition/sydney/${suburb}`,
-    lastModified: new Date(),
-    changeFrequency: 'monthly' as const,
-    priority: 0.7,
-  }));
-  
+  const suburbUrls = [
+    ...suburbsOfSydney.map((suburb) => ({
+      url: `${baseUrl}/services/house-demolition/sydney/${suburb}`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+    })),
+
+    ...suburbsOfSydney.map((suburb) => ({
+      url: `${baseUrl}/services/asbestos-removal/sydney/${suburb}`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+    })),
+  ];
+
   // Blog pages 
   const blogPages: MetadataRoute.Sitemap = blogs.map((blog) => ({ 
     url: `${baseUrl}/blog/${blog.slug}`, 

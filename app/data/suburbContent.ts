@@ -113,3 +113,128 @@ export function getSuburbDemolitionContent(suburbName: string) {
     },
   ];
 }
+
+export function getSuburbAsbestosRemovalContent(suburbName: string) {
+  return [
+    {
+      title: `Asbestos Removal in ${suburbName}`,
+      paragraphs: [
+        [
+          `If you need asbestos removal in ${suburbName}, it is important to use experienced professionals who understand safe asbestos handling and disposal. Asbestos can be found in older homes and buildings, including roofs, walls, eaves, fences and other building materials. If you are unsure whether your property contains asbestos, arrange an inspection before starting renovation, demolition or removal work. `,
+          {
+            text: 'Get a free asbestos removal quote',
+            href: '/get-a-quote',
+          },
+          ` to compare your options.`,
+        ],
+      ],
+    },
+
+    {
+      title: 'Safe Asbestos Removal',
+      paragraphs: [
+        [
+          `Asbestos removal needs careful planning. The type and condition of the asbestos-containing material, the amount of material and the location of the work can all affect how the job should be carried out. Professional contractors use suitable safety procedures to reduce the risk of asbestos fibres becoming airborne.`,
+        ],
+
+        [
+          `If you are planning to demolish or renovate a property in ${suburbName}, asbestos should be considered before work begins. Our `,
+          {
+            text: 'house demolition services',
+            href: '/services/house-demolition',
+          },
+          ` can help property owners understand the demolition process and the work that may need to be completed before demolition.`,
+        ],
+
+        [
+          `Asbestos waste also needs to be handled and disposed of correctly. For NSW information about asbestos waste, disposal requirements and safe handling, see the `,
+          {
+            text: 'NSW Environment Protection Authority asbestos waste information',
+            href: 'https://www.epa.nsw.gov.au/Your-environment/Waste/industrial-waste/asbestos-waste',
+          },
+          `.`,
+        ],
+      ],
+    },
+
+    {
+      title: 'Where Asbestos Can Be Found',
+      paragraphs: [
+        [
+          `Asbestos-containing materials may be present in different parts of an older property. Common areas can include roofing sheets, wall linings, eaves, fences, garages, sheds and other building materials.`,
+        ],
+
+        [
+          `The condition of the material is also important. Damaged, broken or disturbed asbestos-containing materials may create a greater risk of releasing fibres. Do not cut, drill, sand or break suspected asbestos materials yourself unless you are properly equipped and authorised to carry out the work.`,
+        ],
+
+        [
+          `If asbestos needs to be removed from your property in ${suburbName}, a suitable asbestos removal contractor can assess the work and explain the required process.`,
+        ],
+      ],
+    },
+
+    {
+      title: `Asbestos Removal Costs in ${suburbName}`,
+      paragraphs: [
+        [
+          `The cost of asbestos removal in ${suburbName} can vary depending on the type and amount of asbestos, where it is located and how difficult it is to access. The condition of the material and the amount of preparation, removal, transport and disposal required can also affect the price.`,
+        ],
+
+        [
+          `For example, removing asbestos from a small area may cost less than removing asbestos materials from an entire house. Work involving difficult access or damaged materials may also require additional safety measures.`,
+        ],
+
+        [
+          `The best way to understand the cost of your project is to get a clear quote based on the property and the asbestos materials involved. You can `,
+          {
+            text: 'request a free quote',
+            href: '/get-a-quote',
+          },
+          ` to get started.`,
+        ],
+      ],
+    },
+
+    {
+      title: 'Asbestos Removal Before Demolition',
+      paragraphs: [
+        [
+          `If you are planning to demolish a house in ${suburbName}, asbestos may need to be identified and removed before the main demolition work begins. This is particularly important for older properties where asbestos-containing materials may have been used.`,
+        ],
+
+        [
+          `Removing asbestos before demolition can help the demolition team plan the work safely and reduce the risk of disturbing asbestos materials during demolition. If you are planning a complete property demolition, you can learn more about our `,
+          {
+            text: 'asbestos removal services',
+            href: '/services/asbestos-removal',
+          },
+          `.`,
+        ],
+      ],
+    },
+
+    {
+      title: `Get an Asbestos Removal Quote in ${suburbName}`,
+      paragraphs: [
+        [
+          `If you need asbestos removal in ${suburbName}, getting a few quotes can help you compare your options. Ask contractors what is included in the price, including preparation, removal, transport, disposal and site clean-up.`,
+        ],
+
+        [
+          `At DemoQuotes, you can `,
+          {
+            text: 'compare asbestos removal services',
+            href: '/services/asbestos-removal',
+          },
+          ` and `,
+          {
+            text: 'request a quote for your project',
+            href: '/get-a-quote',
+          },
+          `. This makes it easier to find a suitable contractor for your property.`,
+        ],
+      ],
+    },
+  ];
+}
