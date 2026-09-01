@@ -2,9 +2,9 @@
 import type { Metadata } from 'next';
 
 export const metadata = {
-  title: 'Get Free Asbestos Removal Quotes in Australia',
+  title: 'Get Free Concrete Removal Quotes in Australia',
   description:
-    'Compare licensed asbestos contractors across Australia. Get free, fast, no-obligation quotes for residential, commercial, and concrete removal projects.',
+    'Compare licensed concrete removal contractors across Australia. Get free, fast, no-obligation quotes for residential, commercial, and concrete removal projects.',
 };
 
 export default function Layout({

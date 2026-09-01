@@ -8,6 +8,7 @@ export default function HouseDemolitionCalculator() {
   const [houseSize, setHouseSize] = useState(120);
 
   const [houseType, setHouseType] = useState("fibro");
+  const [storeys, setStoreys] = useState("single");
   const [asbestos, setAsbestos] = useState("no");
   const [slope, setSlope] = useState("flat");
   const [pool, setPool] = useState("no");
@@ -21,7 +22,35 @@ export default function HouseDemolitionCalculator() {
   // Pricing
   //----------------------------------------------------
 
-  const HOUSE_RATE = 138;
+  const BASE_HOUSE_RATE = 140;
+  const BASE_MINIMUM_PRICE = 21990;
+  const ANNUAL_RATE_INCREASE = 0.07;
+  const BASE_PRICING_YEAR = 2026;
+
+  function getHouseRate() {
+    const currentDate = new Date();
+
+    // Pricing year starts on 1 July
+    const pricingYear =
+      currentDate.getMonth() >= 6
+        ? currentDate.getFullYear()
+        : currentDate.getFullYear() - 1;
+
+    const yearsSinceBase = Math.max(
+      0,
+      pricingYear - BASE_PRICING_YEAR
+    );
+
+    const multiplier = Math.pow(
+      1 + ANNUAL_RATE_INCREASE,
+      yearsSinceBase
+    );
+
+    return {
+      houseRate: BASE_HOUSE_RATE * multiplier,
+      minimumPrice: BASE_MINIMUM_PRICE * multiplier,
+    };
+  }
 
   const HOUSE_TYPE_COST = {
     brick: 1500,
@@ -29,6 +58,10 @@ export default function HouseDemolitionCalculator() {
     fibro: 0,
   };
 
+  const STOREY_FACTOR = {
+  single: 1,
+  double: 1.70,
+};
   const ASBESTOS_COST = {
     no: 0,
     yes: 1495,
@@ -58,7 +91,7 @@ export default function HouseDemolitionCalculator() {
 
     if (isNaN(code)) return 1;
 
-    if (code >= 2231 && code <= 2750) return 1;
+    if (code >= 2231 && code <= 2774) return 1;
     if (code >= 2151 && code <= 2200) return 1;
     if (code >= 2201 && code <= 2230) return 1.15;
     if (code >= 2070 && code <= 2150) return 1.20;
@@ -71,10 +104,15 @@ export default function HouseDemolitionCalculator() {
   //----------------------------------------------------
 
   const total = useMemo(() => {
-    let cost = houseSize * HOUSE_RATE;
+    
+    const { houseRate, minimumPrice } = getHouseRate();
+    
+    let cost = houseSize * houseRate;
 
     cost += HOUSE_TYPE_COST[houseType as keyof typeof HOUSE_TYPE_COST];
 
+    cost *= STOREY_FACTOR[storeys as keyof typeof STOREY_FACTOR];
+    
     cost += ASBESTOS_COST[asbestos as keyof typeof ASBESTOS_COST];
 
     cost += POOL_COST[pool as keyof typeof POOL_COST];
@@ -89,11 +127,15 @@ export default function HouseDemolitionCalculator() {
 
     cost *= postcodeMultiplier(postcode);
 
+    // Minimum demolition price
+    cost = Math.max(cost, minimumPrice);
+
     return Math.round(cost);
   }, [
     postcode,
     houseSize,
     houseType,
+    storeys,
     asbestos,
     slope,
     pool,
@@ -154,7 +196,7 @@ export default function HouseDemolitionCalculator() {
 
         <input
           className="mt-2 w-full rounded-xl border border-slate-300 bg-white p-4 text-slate-900 outline-none transition placeholder:text-slate-400 focus:border-orange-500 focus:ring-4 focus:ring-orange-100"
-          placeholder="Enter postcode between 2000 and 2750"
+          placeholder="Enter postcode between 2000 and 2774"
           value={postcode}
           onChange={(e) => setPostcode(e.target.value)}
         />
@@ -214,10 +256,26 @@ export default function HouseDemolitionCalculator() {
             onChange={(e) => setHouseType(e.target.value)}
           >
             <option value="fibro">Fibro</option>
-            <option value="brick">Brick (+$1,500)</option>
+            <option value="brick">Brick</option>
             <option value="weatherboard">Weatherboard</option>
           </select>
 
+        </div>
+
+        {/* Storeys */}
+        <div>
+          <label className="mb-2 block font-semibold text-slate-800">
+            Number of Storeys
+          </label>
+
+          <select
+            className="w-full rounded-xl border border-slate-300 bg-white p-4 text-slate-900 outline-none transition focus:border-orange-500 focus:ring-4 focus:ring-orange-100"
+            value={storeys}
+            onChange={(e) => setStoreys(e.target.value)}
+          >
+            <option value="single">Single Storey</option>
+            <option value="double">Double Storey</option>
+          </select>
         </div>
 
 
@@ -234,8 +292,8 @@ export default function HouseDemolitionCalculator() {
             onChange={(e) => setAsbestos(e.target.value)}
           >
             <option value="no">No</option>
-            <option value="yes">Yes (+$1,500)</option>
-            <option value="unsure">Not Sure (+$750)</option>
+            <option value="yes">Yes</option>
+            <option value="unsure">Not Sure</option>
           </select>
 
         </div>
@@ -254,8 +312,8 @@ export default function HouseDemolitionCalculator() {
             onChange={(e) => setSlope(e.target.value)}
           >
             <option value="flat">Flat</option>
-            <option value="moderate">Moderate (+10%)</option>
-            <option value="steep">Steep (+20%)</option>
+            <option value="moderate">Moderate</option>
+            <option value="steep">Steep</option>
           </select>
 
         </div>
@@ -274,7 +332,7 @@ export default function HouseDemolitionCalculator() {
             onChange={(e) => setPool(e.target.value)}
           >
             <option value="no">No</option>
-            <option value="yes">Yes (+$4,000)</option>
+            <option value="yes">Yes</option>
           </select>
 
         </div>
@@ -388,7 +446,7 @@ export default function HouseDemolitionCalculator() {
           </div>
 
         ) : Number(postcode) >= 2000 &&
-          Number(postcode) <= 2750 ? (
+          Number(postcode) <= 2774 ? (
 
           <>
 
@@ -415,7 +473,7 @@ export default function HouseDemolitionCalculator() {
             </div>
 
             <p className="mt-3 text-sm text-slate-400">
-              Please enter a postcode between 2000 and 2750.
+              Please enter a postcode between 2000 and 2774.
             </p>
 
           </div>
