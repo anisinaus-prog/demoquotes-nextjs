@@ -1,7 +1,7 @@
 import Script from "next/script";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
-import './styles/globals.css';
+import './styles/globals.css';  
 
 export const metadata = {
   title: 'DemolitionQuotes.com.au – Free Demolition Quotes',
@@ -54,7 +54,7 @@ export default function RootLayout({
 
         <Footer />
           {/* <!-- Google tag (gtag.js) -->*/}
-          <script async src="https://www.googletagmanager.com/gtag/js?id=G-4BNV7EW2C0" strategy="afterInteractive"></script>
+          <script async src="https://www.googletagmanager.com/gtag/js?id=G-4BNV7EW2C0"></script>
           <script>
               {`
             window.dataLayer = window.dataLayer || [];
