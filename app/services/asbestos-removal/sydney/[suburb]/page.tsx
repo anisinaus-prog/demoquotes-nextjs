@@ -73,7 +73,7 @@ export default function Page({ params }: Props) {
 
           <p className="mt-6 max-w-3xl text-lg leading-8 text-slate-300">
             Need asbestos removal in {suburbName}? Find experienced
-            asbestos removal contractors for residential and property
+            asbestos removal contractors for residential house and property development
             projects. Compare quotes and find the right professional for
             your asbestos removal needs.
           </p>
@@ -210,9 +210,8 @@ export default function Page({ params }: Props) {
               'Fibro wall and ceiling sheeting',
               'Asbestos cement roofing',
               'Eaves and external cladding',
-              'Fencing and boundary sheets',
               'Garage and shed materials',
-              'Some flooring and lining materials',
+              'Some vinyl flooring and lining materials',
             ].map((item) => (
               <div
                 key={item}

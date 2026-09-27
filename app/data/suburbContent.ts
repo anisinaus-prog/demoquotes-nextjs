@@ -120,7 +120,7 @@ export function getSuburbAsbestosRemovalContent(suburbName: string) {
       title: `Asbestos Removal in ${suburbName}`,
       paragraphs: [
         [
-          `If you need asbestos removal in ${suburbName}, it is important to use experienced professionals who understand safe asbestos handling and disposal. Asbestos can be found in older homes and buildings, including roofs, walls, eaves, fences and other building materials. If you are unsure whether your property contains asbestos, arrange an inspection before starting renovation, demolition or removal work. `,
+          `If you need asbestos removal in ${suburbName}, it is important to use experienced licensed professionals who understand safe asbestos handling and disposal. Asbestos can be found in older homes and buildings, including roofs, walls, eaves, and other building materials. If you are unsure whether your property contains asbestos, arrange an inspection before starting renovation, demolition or removal work. `,
           {
             text: 'Get a free asbestos removal quote',
             href: '/get-a-quote',
