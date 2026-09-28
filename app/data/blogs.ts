@@ -58,7 +58,7 @@ Depending on the property, a demolition quote may cover:
 + Permits or council requirements
 + Site levelling
 
-Not every contractor includes the same items. This is why it is important to read the full quote rather than comparing the final dollar amount only.
+Not every contractor includes the same items. This is why it is important to read the full quote rather than comparing the final dollar amount only. However, you may read whether a [permits needed for your Demolition works](./demolition-permit-australia)?
 
 ## Step 1: Know What You Want Demolished
 Before requesting a demolition quote, make a list of everything you want removed.
@@ -106,7 +106,7 @@ Asbestos is an important and serious issue when demolishing older Australian hom
 
 Older houses can contain asbestos in areas such as walls, roofs, eaves, garages, fences, internal wet areas, and other building materials. Sometimes, asbestos is used as packing material to bear and joist flooring or around windows. 
 
-Before demolition starts, asbestos must be identified and managed correctly. SafeWork NSW advises checking the asbestos register before demolition and having the structure inspected by a licensed or a competent person.
+Before demolition starts, asbestos must be identified and managed correctly. [SafeWork NSW](https://www.safeworkaustralia.gov.au/duties-tool/construction/hazards-information/demolition-work) advises checking the asbestos register before demolition and having the structure inspected by a licensed or a competent person.
 
 If asbestos is found, ask the contractor whether asbestos inspection and removal are included in the demolition quote or priced separately. Also make sure to check if air monitoring (which may need) and the asbestos clearance certificate is included with the price.
 
@@ -176,7 +176,7 @@ Price is not the only thing to consider when choosing a demolition contractor.
 
 Check that the contractor has the appropriate licence and insurance for the work.
 
-In NSW, demolition work may need a restricted or unrestricted demolition licence depending on the type of work. SafeWork NSW also describes demolition as high-risk construction work.
+In NSW, demolition work may need a restricted or unrestricted demolition licence depending on the type of work. [SafeWork NSW](https://www.safework.nsw.gov.au/your-industry/construction/demolition) also describes demolition as high-risk construction work.
 
 You can also ask the contractor for:
 + ABN
@@ -270,7 +270,7 @@ Don't compare prices alone. Compare the work included in each demolition quote s
 
 A demolition permit is something almost every Aussie homeowner needs before they knock down a house. Maybe you're planning to pull down an old home, or a run-down building. Either way, it's important to know the rules first. This helps your project run smoothly, with no hold-ups.
 
-In this guide, we'll explain a few things. We'll cover when you need a demolition permit, and what happens if you skip it. We'll also show you how to apply for one the right way. Plus, we'll share tips to help you line up your demolition quotes at the same time.
+In this guide, we'll explain a few things. We'll cover when you need a demolition permit, and what happens if you skip it. We'll also show you how to apply for one the right way. Plus, we'll share [tips to help you line up your demolition quotes](./how-to-get-a-demolition-quote-for-your-house) at the same time.
 
 ## What Is a Demolition Permit?
 
