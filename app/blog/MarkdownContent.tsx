@@ -2,6 +2,7 @@
 
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from "remark-gfm";
+import rehypeRaw from "rehype-raw";
 
 export default function MarkdownContent({
   content,
@@ -9,9 +10,9 @@ export default function MarkdownContent({
   content: string;
 }) {
   return (
-    <article className="max-w-none text-gray-700 leading-8">
+    <article className="prose max-w-none text-gray-700 leading-8">
 
-      <ReactMarkdown remarkPlugins={[remarkGfm]}
+      <ReactMarkdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]}
         components={{
           h1: ({ children }) => (
             <h1 className="mb-6 mt-10 text-4xl font-bold leading-tight text-gray-900">

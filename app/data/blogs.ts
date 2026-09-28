@@ -25,6 +25,225 @@ Meta Description:
 Get a demolition quote for your house in Australia. Learn what to include, how to compare quotes, asbestos costs, permits and contractor checks.
 
 */
+  {
+    slug: 'how-to-compare-demolition-quotes',
+    title: 'How to Compare Demolition Quotes in Australia',
+    description:
+      'Know how to compare demolition quotes in Australia. Check inclusions, exclusions, asbestos, site clean-up, extra costs and contractor details.',
+      image: '/images/blog/compare-demolition-quotes.jpg',
+    content: `
+    Demolition quotes can look different, even when several contractors are quoting for the same house. One contractor may give you a lower price, while another may charge more but include extra work such as hazardous waste removal, site clean-up, or concrete removal. This is why it is important to compare demolition quotes carefully before choosing a contractor.
+If you are planning to demolish a house in Australia, getting several quotes can help you understand the work involved and the likely cost. But comparing quotes is not about finding the lowest price. You need to check what each contractor has included in the price.
+
+## Get More Than One Demolition Quote
+The first step is to get several demolition quotes for your project. Try to give each contractor the same information. This could include:
++ Property address
++ House size
++ Number of storeys
++ Building type
++ Photos of the property
++ Site access details
++ Garage or shed information
++ Pool information
++ Concrete areas
++ Known asbestos
++ Other structures to be removed
++ Your preferred demolition date
+
+Giving each contractor the same information makes the quotes easier to compare. Australian quote guides also recommend looking at the details included in a quote rather than simply choosing the lowest price.
+
+
+## Check What Is Included
+One of the most important things to check when comparing demolition quotes is the scope of work.
+A quote should clearly explain what the contractor will do for the price.
+Check if the quote includes:
++ House demolition
++ Labour
++ Excavator and machinery
++ Loading demolition waste
++ Transport
++ Disposal and tip fees
++ Asbestos removal
++ Concrete removal
++ Slab removal
++ Garage or shed removal
++ Pool removal
++ Site clean-up
++ Site preparation
++ Final site condition
+
+For example, Contractor A might quote $25,000 and include waste removal. Contractor B might quote $21,000 but charge waste removal separately.
+
+The second quote looks cheaper at first, but the final cost may be closer than you expect. Get a idea [How Much Does House Demolition Cost in Australia? (2026 Guide)](./demolition-cost-australia)
+
+[Get Your Demolition Quotes->]((/get-a-quote))
+
+## Look for Exclusions
+Exclusions are items that are not included in the quoted price. Always look for a section called:
++ Exclusions
++ Not included
++ Additional costs
++ Variations
++ Allowances
+
+Common exclusions may include asbestos removal, concrete removal, tree removal, difficult access, extra waste, temporary site fencing, disconnection of services, site facilities, and some approval costs.
+
+If you do not understand an exclusion, ask the contractor before accepting the quote. It is better to ask questions before the demolition starts than to receive an unexpected extra bill later.
+
+
+## Compare Demolition Quotes Like for Like
+
+A simple way to compare demolition quotes is to create a table. For example:
+
+| Work             | Contractor A | Contractor B       | Contractor C |
+|------------------|--------------|--------------------|--------------|
+| House demolition | Included     | Included           | Included     |
+| Machinery        | Included     | Included           | Included     |
+| Waste removal    | Included     | Extra              | Included     |
+| Tip fees         | Included     | Extra              | Included     |
+| Asbestos         | Extra        | Extra              | Included     |
+| Concrete slab    | Included     | Extra              | Extra        |
+| Site clean-up    | Included     | Included           | Extra        |
+| GST              | Included     | Included            | Included     |
+| **Total**        | **$28,000**  | **$24,000 + extras** | **$30,000** |
+
+This makes it easier to see what you are actually paying for. The cheapest demolition quote is not always the lowest total cost once missing items are added.
+
+
+## Check Asbestos Costs
+
+Asbestos is an important issue when comparing demolition quotes for older Australian homes.
+
+Asbestos was widely used in Australian buildings before it was prohibited in 2003. It can still be found in older homes and other structures.
+Ask each contractor:
+
++  Has the property been checked for asbestos/lead?
++ Is asbestos removal included?
++ Is asbestos disposal included?
++ Is an asbestos inspection required?
++ What happens if asbestos is found after the quote?
+
+Safe Work Australia says asbestos should be identified before demolition and asbestos that could be disturbed by the demolition should be removed before the demolition starts, subject to the applicable requirements.
+
+Asbestos/leasd can make a large difference to the final project cost, so it should not be overlooked when comparing quotes.
+
+[Get A  Quote->]((/get-a-quote))
+
+## Check Concrete and Other Structures
+The main house may not be the only thing you want removed. Your project could also include:
++ Driveways
++ Concrete paths
++ Swimming pools
++ Garages
++ Sheds
++ Retaining walls
++ Garden structures
++ Old slabs
+
+Make sure these items are clearly listed in your demolition quotes. If a contractor has only priced the house, do not assume the driveway, garage or slab will also be removed.
+
+Ask for each item to be clearly included or excluded.
+
+
+## Check Site Access
+
+Site access can have a big effect on demolition work. A large excavator and trucks need enough space to enter and work safely. Tell the contractor if your property has:
++ A narrow driveway
++ A narrow street
++ Limited parking
++ A steep block
++ Nearby buildings
++ Shared access
++ Overhead services
++ Limited space for machinery
++ Load out areas
+
+These details can affect the demolition method, machinery and labour required. Providing photos of difficult access areas or allowing them for site inspection can help contractors prepare more accurate demolition quotes.
+
+
+## Check Licences and Insurance
+Before choosing a demolition contractor, check their licence and insurance requirements for your state or territory. Demolition is a high-risk construction work and can involve serious risks. Safe Work Australia notes that demolition work can involve licensing, notification, asbestos, and other work health and safety requirements.
+Ask the contractor for details such as:
++ Business name
++ ABN
++ Relevant demolition and asbestos licence
++ Public liability insurance
++ Workers compensation arrangements where applicable
++ Previous demolition experience
+
+The exact licence and notification requirements can differ between Australian states and territories, so check the rules that apply to your location.
+
+
+## Ask About the Demolition Timeframe
+Price is only one part of the decision. Ask each contractor:
+ “When can you start?”
+Also ask:
++ How long will the demolition take?
++ When will waste be removed?
++ When will the site be cleaned?
++ Are there possible delays?
++ What happens if unexpected materials are found?
+
+Having a clear timeframe can help you plan your next stage, especially if you are planning to build a new house after demolition.
+
+
+## Ask About Extra Costs
+Before accepting any of the demolition quotes, ask:
+>**"Are there any other costs that could be added to this price?"**
+
+This is a simple question, but it can uncover important information. Ask about possible costs for:
++ Asbestos
++ Extra waste
++ Concrete
++ Difficult access
++ Additional machinery
++ Site clean-up
++ Unexpected structures
++ Approval requirements
++ Utility disconnections
++ Delays
+
+Get important answers in writing where possible.
+
+
+## Use DemoQuotes to Get Demolition Quotes
+Comparing demolition quotes can take time when you contact contractors one by one.DemoQuotes helps make the process easier by allowing homeowners to submit their project details online.
+You can provide information about your property, location and demolition requirements. Suitable demolition contractors can then review the project and provide their pricing.
+When you receive your demolition quotes, compare the full scope of work, not the final dollar amount.
+
+
+## Final Checklist for Comparing Demolition Quotes
+
+Before choosing a demolition contractor, check:
+
++ The house is clearly included
++ All buildings are listed
++ Waste removal is included
++ Disposal fees are clear
++ Asbestos arrangements are clear
++ Concrete and slabs are listed
++ Garage and shed removal is clear
++ Site clean-up is included
++ GST is included
++ Exclusions are listed
++ Extra costs are explained
++ Contractor licence is checked
++ Insurance is checked
++ Start date is clear
++ Expected completion time is clear
+
+[Get Your Demolition Quotes->]((/get-a-quote))
+
+The best way to compare demolition quotes is to make sure you are comparing the same work. A low price may not include everything you need. A higher price may include waste removal, concrete removal, asbestos work and site clean-up.
+
+Take your time, read the details and ask questions before accepting a quote.
+
+If you are ready to start your demolition project, **submit your project to DemoQuotes** and get connected with demolition contractors in Australia.
+
+
+`,
+  },
+
 
   {
     slug: 'how-to-get-a-demolition-quote-for-your-house',
@@ -490,6 +709,7 @@ The best way to understand your true demolition cost is to compare demolition qu
 4. Ask about site clean-up and waste disposal.
 5. Make sure the contractor is licensed and insured.
 
+Read more about [How to Compare Demolition Quotes in Australia](./how-to-compare-demolition-quotes)
 Most councils across Australia need a demolition permit before any work can start. You can check your local requirements on your council's website, or through the [NSW Planning Portal](https://www.planningportal.nsw.gov.au/) if you're based in New South Wales.
 
 know more on [Do I Need a Demolition Permit?](/demolition-permit-australia)
