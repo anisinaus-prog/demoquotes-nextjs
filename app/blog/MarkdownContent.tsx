@@ -1,6 +1,7 @@
 'use client';
 
 import ReactMarkdown from 'react-markdown';
+import remarkGfm from "remark-gfm";
 
 export default function MarkdownContent({
   content,
@@ -10,7 +11,7 @@ export default function MarkdownContent({
   return (
     <article className="max-w-none text-gray-700 leading-8">
 
-      <ReactMarkdown
+      <ReactMarkdown remarkPlugins={[remarkGfm]}
         components={{
           h1: ({ children }) => (
             <h1 className="mb-6 mt-10 text-4xl font-bold leading-tight text-gray-900">
@@ -73,6 +74,32 @@ export default function MarkdownContent({
             <blockquote className="my-6 border-l-4 border-blue-600 bg-gray-50 px-6 py-4 italic text-gray-700">
               {children}
             </blockquote>
+          ),
+          
+          table: ({ children }) => (
+            <div className="my-8 overflow-x-auto">
+              <table className="w-full border-collapse border border-gray-300 text-left">
+                {children}
+              </table>
+            </div>
+          ),
+
+          thead: ({ children }) => (
+            <thead className="bg-gray-100">
+              {children}
+            </thead>
+          ),
+
+          th: ({ children }) => (
+            <th className="border border-gray-300 px-4 py-3 font-semibold text-gray-900">
+              {children}
+            </th>
+          ),
+
+          td: ({ children }) => (
+            <td className="border border-gray-300 px-4 py-3">
+              {children}
+            </td>
           ),
         }}
       >

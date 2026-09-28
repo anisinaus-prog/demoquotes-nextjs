@@ -1,6 +1,7 @@
 import { notFound } from 'next/navigation';
 import { blogs } from '@/app/data/blogs';
 import MarkdownContent from '../MarkdownContent';
+import Image from 'next/image';
 
 type Props = {
   params: {
@@ -47,6 +48,19 @@ export default function BlogPost({ params }: Props) {
         <p className="mt-4 text-lg text-gray-600">
           {blog.description}
         </p>
+        {/* Featured Image */} 
+        {blog.image && (
+          <div className="mt-8 overflow-hidden rounded-2xl">
+            <Image
+              src={blog.image}
+              alt={blog.title}
+              width={1200}
+              height={630}
+              className="h-auto w-full object-cover"
+              priority
+            />
+          </div>
+        )}
 
         <div className="mt-10 border-t border-gray-200 pt-8">
           <MarkdownContent content={blog.content} />
