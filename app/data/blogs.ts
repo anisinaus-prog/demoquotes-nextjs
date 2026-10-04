@@ -2,6 +2,7 @@ export type Blog = {
   slug: string;
   title: string;
   description: string;
+  keyword?: string;
   image?: string;
   content: string;
 };
@@ -13,7 +14,8 @@ export const blogs: Blog[] = [
     title: 'Concrete Removal & Excavation – DemolitionQuotes.com.au',
     description:
       'Fast and safe concrete removal and excavation services. Compare licensed contractors and get free quotes instantly.',
-      image: '/images/blog/demolition-quote-house.jpg',
+    keyword: 'concrete removal',
+    image: '/images/blog/demolition-quote-house.jpg',
     content: ``,
   },
 
@@ -305,7 +307,7 @@ With DemoQuotes, homeowners can submit their demolition project details online i
 
 You can provide information about your property, location, house and demolition requirements. Suitable demolition contractors can then review your project and provide a quote.
 
-When you receive several demolition quotes, [compare the scope of work](./blog/how-to-compare-demolition-quotes), inclusions, exclusions and possible extra costs.
+When you receive several demolition quotes, [compare the scope of work](/blog/how-to-compare-demolition-quotes), inclusions, exclusions and possible extra costs.
 
 ## Final Checklist
 Before accepting a demolition quote, make sure you understand:
@@ -329,7 +331,7 @@ A clear demolition quote should leave you with a good understanding of what you 
 
 Don't compare the price alone. Compare the full scope of work so you know what each contractor is offering.
 
-If you are planning a [house demolition in Australia](./blog/how-to-get-a-demolition-quote-for-your-house), submit your project to DemoQuotes and get connected with demolition contractors who can quote on your job.
+If you are planning a [house demolition in Australia](/blog/how-to-get-a-demolition-quote-for-your-house), submit your project to DemoQuotes and get connected with demolition contractors who can quote on your job.
 
 `,
   },
@@ -636,7 +638,7 @@ Older houses can contain asbestos in areas such as walls, roofs, eaves, garages,
 
 Before demolition starts, asbestos must be identified and managed correctly. [SafeWork NSW](https://www.safeworkaustralia.gov.au/duties-tool/construction/hazards-information/demolition-work) advises checking the asbestos register before demolition and having the structure inspected by a licensed or a competent person.
 
-If asbestos is found, ask the contractor whether asbestos inspection and removal are [included in the demolition quote](./blog/what-should-be-included-in-a-demolition-quote) or priced separately. Also make sure to check if air monitoring (which may need) and the asbestos clearance certificate is included with the price.
+If asbestos is found, ask the contractor whether asbestos inspection and removal are [included in the demolition quote](/blog/what-should-be-included-in-a-demolition-quote) or priced separately. Also make sure to check if air monitoring (which may need) and the asbestos clearance certificate is included with the price.
 
 Do not assume that asbestos removal is included because the contractor has quoted for demolition.
 
@@ -716,7 +718,7 @@ You can also ask the contractor for:
 
 For work in other Australian states, check the requirements of the relevant state or territory authority.
 
-# Step 7: Compare Quotes Like for Like
+## Step 7: Compare Quotes Like for Like
 
 Do not simply choose the contractor with the lowest number.
 
