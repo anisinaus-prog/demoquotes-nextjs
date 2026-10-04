@@ -220,7 +220,7 @@ export default function ExcavationWorksPage() {
                 required
               />
 
- <GoogleMapsProvider>
+              <GoogleMapsProvider>
                           <AddressAutocompleteInput
                               value={form.service_address}
                               onChange={(address, lat, lng) => {
@@ -279,53 +279,6 @@ export default function ExcavationWorksPage() {
               >
                 {loading ? 'Submitting...' : 'Get Free Quote'}
               </button>
-            </form>
-            <form className="mt-8 space-y-5">
-              <input
-                type="text"
-                placeholder="Full Name"
-                className="w-full rounded-2xl border border-slate-300 px-5 py-4 outline-none transition focus:border-orange-500 focus:ring-4 focus:ring-orange-100"
-              />
-
-              <input
-                type="email"
-                placeholder="Email Address"
-                className="w-full rounded-2xl border border-slate-300 px-5 py-4 outline-none transition focus:border-orange-500 focus:ring-4 focus:ring-orange-100"
-              />
-
-              <input
-                type="tel"
-                placeholder="Phone Number"
-                className="w-full rounded-2xl border border-slate-300 px-5 py-4 outline-none transition focus:border-orange-500 focus:ring-4 focus:ring-orange-100"
-              />
-
-              <select className="w-full rounded-2xl border border-slate-300 px-5 py-4 outline-none transition focus:border-orange-500 focus:ring-4 focus:ring-orange-100">
-                <option>Select Excavation Type</option>
-                <option>Bulk Excavation</option>
-                <option>Site Cut</option>
-                <option>Trenching</option>
-                <option>Earthmoving</option>
-                <option>Land Clearing</option>
-              </select>
-
-              <textarea
-                rows={5}
-                placeholder="Project Details"
-                className="w-full rounded-2xl border border-slate-300 px-5 py-4 outline-none transition focus:border-orange-500 focus:ring-4 focus:ring-orange-100"
-              />
-
-              <button
-                type="submit"
-                className="w-full rounded-2xl bg-orange-600 px-6 py-4 text-lg font-bold text-white shadow-lg shadow-orange-500/20 transition hover:bg-orange-700"
-              >
-                Get Free Quote
-              </button>
-
-              {success && (
-                <div className="mb-4 rounded bg-green-100 p-3 text-green-700">
-                  {success}
-                </div>
-              )}
             </form>
           </div>
         </div>
