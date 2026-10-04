@@ -148,7 +148,7 @@ export default function HouseDemolitionCalculator() {
   //----------------------------------------------------
 
   return (
-  <section className="bg-slate-100 py-20 lg:py-24">
+  <section className="bg-slate-100 py-20 lg:py-24 lg:px-40 md:px-20">
   <div className="mx-auto max-w-5xl px-6 lg:px-8">
 
     {/* Section heading */}
