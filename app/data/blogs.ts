@@ -26,13 +26,322 @@ Get a demolition quote for your house in Australia. Learn what to include, how t
 
 */
   {
+    slug: 'what-should-be-included-in-a-demolition-quote',
+    title: 'What Should Be Included in a Demolition Quote?',
+    description:
+      'Checklist on what should be included in a demolition quote in Australia, including labour, machinery, asbestos, waste disposal,clean-up and extra costs.',
+      image: '/images/blog/Demolition Quote Inclusions Checklist.jpg',
+    content: `
+Demolition quote should clearly show what work a demolition contractor will do, what is included in the price and what may cost extra. If you are planning to demolish a house in Australia, it is important to understand the quote before you agree to the work.
+
+A house demolition involves more than knocking down the building. The job can include machinery, labour, and other costs. A good demolition quote should make these items clear. When comparing demolition quotes, do not only look at the final price. Two contractors can give very different prices because they have included different work.
+
+## What Is a Demolition Quote?
+A demolition quote is a written price from a contractor for the demolition work at your property. The demolition quote should explain the work that the contractor plans to complete. It should also show any items that are not included. A typical house demolition may include:
++ Labour
++ Excavators and other machinery
++ Demolition of the house
++ Loading and removal of waste
++ Transport
++ Disposal fees
++ Asbestos work
++ Concrete removal
++ Slab removal
++ Garage or shed removal
++ Site clean-up
++ Site preparation
++ Other agreed work
+
+Not every demolition quote will include all these items. Always check the details before accepting a price.
+
+## 1. House Demolition
+The first thing your demolition quote should clearly state is what building or buildings will be demolished. For example, the work may include:
++ Single-storey house
++ Double-storey house
++ Garage
++ Carport
++ Shed
++ Granny flat
++ Other structures
+
+If you only want the house demolished, make sure the quote does not include work you do not need. If you want the garage, shed or carport removed as well, make sure these are listed. A clear scope helps prevent confusion between you and the contractor.
+
+[Get a Quote →](/get-a-quote)
+
+## 2. Labour
+Labour is a major part of most demolition quotes. The quote should make it clear whether the labour needed to demolish the property is included. This can include workers operating machinery, sorting materials, loading waste and completing site clean-up.
+
+You do not normally need to know the exact number of hours the contractor will spend on the job. However, the quote should clearly describe the work being allowed in the price.
+
+## 3. Machinery and Equipment
+Demolition often requires heavy machinery.
+Depending on the property, this may include:
++ Excavators
++ Bobcats or skid steer loaders
++ Trucks
++ Attachments
++ Water carts
++ Other equipment
+
+Check whether machinery is included in your demolition quote.
+
+You should also ask if there could be additional machinery charges if the job takes longer than expected.
+
+## 4. Waste Removal
+A demolished house can create a large amount of waste. Waste may include:
++ Bricks
++ Timber
++ Concrete
++ Roofing materials
++ Plasterboard
++ Tiles
++ Metal
++ General building materials
+
+Your demolition quote should explain who will remove the waste from the site.
+
+Ask:
+
+> Is all demolition waste removal included in the quoted price?
+
+If waste removal is not included, you may have to arrange another contractor or pay an additional amount.
+
+[Request a House Demolition Quote →](/get-a-quote)
+
+## 5. Tip and Disposal Fees
+
+Waste needs to be taken to suitable disposal or recycling facilities. Disposal fees can depend on the type and amount of material. For this reason, check whether tip fees and other disposal charges are included in your demolition quote.
+
+A quote that includes waste removal but excludes disposal fees may still result in additional costs. Ask the contractor to explain exactly what is included.
+
+
+## 6. Asbestos Removal
+
+Asbestos is an important part of demolition planning in Australia.
+
+Older homes can contain asbestos in products such as fibro sheeting, roofing, cladding, vinyl tiles and other building materials. [Safe Work Australia](https://www.safeworkaustralia.gov.au/safety-topic/hazards/demolition) says asbestos should be checked before demolition, and asbestos that demolition work may disturb needs to be removed before the demolition starts.
+
+Your demolition quote should clearly state whether asbestos work is:
++ Included
++ Excluded
++ Allowed for separately
++ Subject to an inspection or testing
+
+Do not assume asbestos removal is included simply because the contractor has quoted for the demolition. If asbestos is found after the quote is prepared, the contractor may need to provide a separate price for the removal.
+
+The exact asbestos requirements can vary between Australian states and territories, so check the rules that apply to your property.
+
+
+## 7. Concrete and Slab Removal
+
+Many homeowners assume that demolishing the house automatically includes removing everything on the ground. This is not always the case. Ask whether your demolition quote includes:
++ Concrete slab
++ Driveway
++ Concrete paths
++ Pool surrounds
++ Footings
++ Retaining walls
++ Other concrete structures
+
+If you want the site ready for a new building project, tell the contractor what level of site clearing you need.
+
+[Get a Quote Now! →](/get-a-quote)
+
+## 8. Garage, Shed and Other Structures
+
+Make a list of all structures you want removed.
+
+For example:
+>Demolish house, garage, rear shed and carport.
+
+Put this information in the request for your demolition quote.
+
+This helps each contractor price the same scope of work. If one contractor includes the garage and another does not, their prices cannot be compared properly.
+
+## 9. Site Clean-Up
+
+Site clean-up should also be explained in the demolition quote. Ask what the site will look like when the contractor has finished.
+
+For example, will the contractor:
+
++ Remove all demolition waste?
++ Remove concrete?
++ Remove footings?
++ Remove rubbish?
++ Level the site?
++ Leave the ground ready for the next contractor?
+
+Do not assume that "demolition complete" means the site is ready for construction.
+
+Ask the contractor to describe the final condition of the site.
+
+## 10. Utility Disconnections
+
+Before demolition, services such as electricity, gas, water and telecommunications may need to be disconnected or managed.
+
+Ask your contractor who is responsible for arranging these services.
+
+Your demolition quote should state whether any service disconnection work is included in the price.
+
+Do not assume that the demolition contractor will arrange every service on your behalf.
+
+## 11. Permits and Approvals
+
+Demolition can involve council, planning and work health and safety requirements.
+The exact requirements depend on the state, territory and local council.
+[Safe Work Australia](https://www.safeworkaustralia.gov.au/duties-tool/construction/hazards-information/asbestos) states that demolition work is construction work and can involve licensing and notification requirements. For example, under the model WHS framework, certain demolition work must be notified to the relevant WHS regulator at least five days before the work starts.
+
+Ask your contractor:
++ Who arranges demolition approvals?
++ Who handles required notifications?
++ Are council fees included?
++ Are approval costs included?
++ What do I need to organise?
+
+The demolition quote should make it clear where the contractor's responsibility ends and where your responsibility starts.
+
+## 12. GST
+
+Check whether GST is included in the quoted price.
+
+For example:
+Demolition: $20,000
+GST: $2,000
+Total: $22,000
+
+Or the contractor may simply provide a GST-inclusive total.
+
+Make sure you know whether the price shown is the final amount including GST.
+
+This makes comparing demolition quotes much easier.
+
+## 13. Exclusions
+
+A good demolition quote should also explain what is not included.
+
+Common exclusions may include:
+
++ Asbestos removal
++ Tree removal
++ Concrete outside the house
++ Pool removal
++ Difficult access
++ Extra waste
++ Service disconnections
++ Council fees
++ Unexpected underground structures
++ Additional work requested after the quote
+
+Read the exclusions carefully.
+
+Sometimes a lower demolition quote is lower because several items have been excluded.
+
+[Request a Quote →](/get-a-quote)
+
+## 14. Variations and Extra Costs
+
+Ask the contractor what happens if the job changes.
+
+For example, asbestos may be found in an area that was not visible during the original inspection.
+
+There may also be unexpected concrete, underground structures or difficult site conditions.
+
+Ask:
+> How will extra work be priced?
+
+A clear process for variations can help prevent arguments about additional costs.
+**Example of a Good Demolition Quote** 
+
+Here is a simple example of what you might expect to see:
+
+
+| Item | Included? |
+|---|---|
+| House demolition | Yes |
+| Labour | Yes |
+| Excavator | Yes |
+| Trucks | Yes |
+| Waste loading | Yes |
+| Waste transport | Yes |
+| Tip fees | Yes |
+| Asbestos removal | No – separate price |
+| Concrete slab | Yes |
+| Driveway | No |
+| Garage | Yes |
+| Site clean-up | Yes |
+| GST | Yes |
+| Council fees | No |
+
+This type of breakdown makes demolition quotes much easier to understand.
+What to Ask Before Accepting a Demolition Quote
+Before you accept a demolition quote, ask these questions:
+
+
+1. What exactly is included?
+2. What is excluded?
+3. Is GST included?
+4. Is waste removal included?
+5. Are tip fees included?
+6. Is asbestos included?
+7. Is concrete removal included?
+8. Is the garage included?
+9. Is site clean-up included?
+10. Who handles service disconnections?
+11. Who handles required approvals and notifications?
+12. Can the price change?
+13. How are variations charged?
+14. How long will the demolition take?
+15. What condition will the site be left in?
+
+Getting clear answers can save you from unexpected costs later.
+
+## Get Demolition Quotes Through DemoQuotes
+
+Getting a clear demolition quote is an important step before starting your project.
+
+With DemoQuotes, homeowners can submit their demolition project details online instead of contacting contractors one at a time.
+
+[Get A  Quote Now!->]((/get-a-quote))
+
+You can provide information about your property, location, house and demolition requirements. Suitable demolition contractors can then review your project and provide a quote.
+
+When you receive several demolition quotes, [compare the scope of work](./blog/how-to-compare-demolition-quotes), inclusions, exclusions and possible extra costs.
+
+## Final Checklist
+Before accepting a demolition quote, make sure you understand:
++ What will be demolished
++ What will stay
++ Labour and machinery
++ Waste removal
++ Disposal fees
++ Asbestos arrangements
++ Concrete and slab removal
++ Garage and shed removal
++ Site clean-up
++ Service disconnections
++ Approvals and notifications
++ GST
++ Exclusions
++ Variations
++ Final site condition
+
+A clear demolition quote should leave you with a good understanding of what you are paying for.
+
+Don't compare the price alone. Compare the full scope of work so you know what each contractor is offering.
+
+If you are planning a [house demolition in Australia](./blog/how-to-get-a-demolition-quote-for-your-house), submit your project to DemoQuotes and get connected with demolition contractors who can quote on your job.
+
+`,
+  },
+  {
     slug: 'how-to-compare-demolition-quotes',
     title: 'How to Compare Demolition Quotes in Australia',
     description:
       'Know how to compare demolition quotes in Australia. Check inclusions, exclusions, asbestos, site clean-up, extra costs and contractor details.',
       image: '/images/blog/compare-demolition-quotes.jpg',
     content: `
-    Demolition quotes can look different, even when several contractors are quoting for the same house. One contractor may give you a lower price, while another may charge more but include extra work such as hazardous waste removal, site clean-up, or concrete removal. This is why it is important to compare demolition quotes carefully before choosing a contractor.
+Demolition quotes can look different, even when several contractors are quoting for the same house. One contractor may give you a lower price, while another may charge more but include extra work such as hazardous waste removal, site clean-up, or concrete removal. This is why it is important to compare demolition quotes carefully before choosing a contractor. 
+    
 If you are planning to demolish a house in Australia, getting several quotes can help you understand the work involved and the likely cost. But comparing quotes is not about finding the lowest price. You need to check what each contractor has included in the price.
 
 ## Get More Than One Demolition Quote
@@ -327,7 +636,7 @@ Older houses can contain asbestos in areas such as walls, roofs, eaves, garages,
 
 Before demolition starts, asbestos must be identified and managed correctly. [SafeWork NSW](https://www.safeworkaustralia.gov.au/duties-tool/construction/hazards-information/demolition-work) advises checking the asbestos register before demolition and having the structure inspected by a licensed or a competent person.
 
-If asbestos is found, ask the contractor whether asbestos inspection and removal are included in the demolition quote or priced separately. Also make sure to check if air monitoring (which may need) and the asbestos clearance certificate is included with the price.
+If asbestos is found, ask the contractor whether asbestos inspection and removal are [included in the demolition quote](./blog/what-should-be-included-in-a-demolition-quote) or priced separately. Also make sure to check if air monitoring (which may need) and the asbestos clearance certificate is included with the price.
 
 Do not assume that asbestos removal is included because the contractor has quoted for demolition.
 
