@@ -27,7 +27,360 @@ Meta Description:
 Get a demolition quote for your house in Australia. Learn what to include, how to compare quotes, asbestos costs, permits and contractor checks.
 
 */
-  
+    {
+    slug: 'asbestos-removal-before-demolition',
+    title: 'Asbestos Removal Before Demolition: What You Need to Know',
+    description:
+      'See why asbestos removal is important before demolition, where asbestos may be found, and why licensed professionals should handle asbestos work in Australia.',
+    keyword: 'concrete removal',
+    image: '/images/blog/Asbestos Removal - where and how.jpg',
+    content: `
+Asbestos removal is an important step to consider before starting a demolition project. Many older homes, sheds and other buildings may contain asbestos. These asbestos materials usullay found in walls, roofs, eaves, bathrooms and other areas. If asbestos is present, it needs to be identified and removed before demolition.
+
+Asbestos was widely used in Australian buildings before 2000.  It was used in many building products for many years. Although asbestos is no longer used in new buildings, it can still be found in older homes.
+
+If you are planning a demolition, understanding asbestos can help you avoid problems. 
+
+## Why Is Asbestos a Problem?
+
+Asbestos can be dangerous when its fibres become airborne and are breathed in.
+
+The risk can increase during demolition. Because walls, roofs, ceilings and other building materials are being broken, or moved. This can disturb asbestos-containing materials and release fibres into the air.
+
+This is why asbestos removal should be planned before demolition begins.
+
+[Safe Work Australia](https://www.safeworkaustralia.gov.au/duties-tool/construction/hazards-information/demolition-work) states that asbestos must be checked before demolition work starts. Asbestos may be disturbed by demolition. Hence, it should be removed before the demolition work begins.
+
+For a homeowner, this means asbestos should not be treated as an afterthought. It should be part of the demolition planning and quote process.
+
+## Where Can Asbestos Be Found?
+
+Asbestos may be found in many parts of an older Australian home.
+
+Common areas include:
+
+- Roof sheets
+
+- Wall lining
+
+- Eaves and soffits
+
+- Garage walls
+
+- Garage roofs
+
+- Bathroom walls
+
+- Laundry walls
+
+- Kitchen areas
+
+- Ceiling lining 
+
+- Vinyl flooring
+
+- Packing materials to fill the gap in timber bearers, floor joists, and brick piers
+
+- External cladding
+
+- Electrical switchboards
+
+- Pipes and pipe insulation
+
+- Water tanks
+
+- Sheds
+
+- Old garden structures
+
+Some asbestos-containing materials are easy to see. Others may be hidden behind walls, floors, ceilings or other building materials. This is one reason why asbestos removal should be properly idenfied. Then planned before a demolition contractor starts work.
+
+[Get a Quote Now! →](/get-a-quote)
+
+
+## Older Homes Need Extra Care
+
+If your home was built or renovated many years ago, it is important to check the possibility of asbestos.
+
+Australian homes built before late 1980s and early 1990s may contain asbestos products. However, the age of the building alone does not confirm that asbestos is present.
+
+The best approach is to have the property checked by a qualified professional. 
+
+Do not assume that a material is safe simply because it looks like normal cement sheeting.
+
+Some asbestos products can look like other building materials.
+
+## Asbestos Removal Before Demolition
+
+Asbestos removal should normally happen before the main demolition work begins. This is done when the asbestos could be disturbed by demolition.
+
+For example, if a house has asbestos, the excavator should not simply knock the building down.
+
+The asbestos removal process should be planned first.
+
+A typical project may look like this:
+
+1. Inspect the property for asbestos.
+
+2. Identify asbestos-containing materials.
+
+3. Determine the type and amount of asbestos.
+
+4. Get an asbestos removal quote.
+
+5. Engage a licensed asbestos removalist where required.
+
+6. Remove the asbestos safely.
+
+7. Clean and decontaminate the work area.
+
+8. Dispose of asbestos waste correctly.
+
+9. Get a asbestos clearance certificate from a licensed or competent professional
+
+10. Start the main house demolition.
+
+This process can help reduce the risk of asbestos fibres spreading during demolition.
+
+## What Is the Difference Between Friable and Non-Friable Asbestos?
+
+There are two common types of asbestos-containing materials: friable and non-friable.
+
+### Non-Friable Asbestos
+
+Non-friable asbestos is sometimes called bonded asbestos.
+
+The asbestos fibres are bonded into a solid material, such as cement sheeting.
+
+When the material is in good condition and left undisturbed, the risk can be lower. However, demolition can damage the material and create a risk of fibre release.
+
+### Friable Asbestos
+
+Friable asbestos is more easily broken, crushed or damaged.
+
+It can release asbestos fibres into the air more easily. This is considered a higher-risk material.
+
+Friable asbestos removal requires a higher level of control. That must be carried out by licensed professionals.
+
+The rules for asbestos removal can vary between Australian states and territories. Always check the requirements that apply to your location.
+
+## Does Asbestos Removal Need a Licensed Professional?
+
+Asbestos removal must be carried out by a licensed asbestos removalist. For example, in NSW, a Class B licence is required to remove non-friable asbestos. A Class A licence is required for friable asbestos.
+
+In NSW, licensed removalist must notify [SafeWork NSW](https://www.asbestos.nsw.gov.au/removal-and-disposal/how-to-safely-remove-asbestos) before understaking any removal work. For less than 10 square meter of non-friable asbestos, no nofiication is required. However, asbestos removal still needs to follow strict safety requirements. 
+
+[Get a Quote Now! →](/get-a-quote)
+
+
+## What Should Be Included in an Asbestos Removal Quote?
+
+If you are comparing asbestos removal quotes, make sure to check what is included.
+
+A good asbestos removal quote may include:
+
+- Asbestos inspection or assessment
+
+- Identification of asbestos materials
+
+- Labour
+
+- Safety equipment
+
+- Removal of asbestos
+
+- Packaging and sealing of asbestos waste
+
+- Loading and transport
+
+- Disposal fees
+
+- Site clean-up
+
+- Decontamination
+
+- Clearance requirements where applicable
+
+- Required notifications
+
+- Any testing or inspection costs
+
+Do not compare quotes based only on the cheapest price.
+
+A cheap asbestos removal quote may not include all the work needed. That may not include everything to safely remove and dispose of the material.
+
+Ask the contractor to clearly explain what is included and what is not included.
+
+## Tell Your Demolition Contractor About Asbestos
+
+When [asking for a demolition quote](/blog/how-to-get-a-demolition-quote-for-your-house), tell the contractor if you suspect any asbestos.
+
+This can help the contractor understand the site conditions before preparing the quote.
+
+For example, tell them if the property has:
+
+- Old fibro walls
+
+- Fibro roofing
+
+- Asbestos fencing
+
+- An old garage
+
+- Fibro eaves
+
+- Old bathroom wall sheets
+
+- Suspected asbestos flooring
+
+- An old shed
+
+- Other suspected asbestos materials
+
+If asbestos is not included in the demolition quote, ask the contractor. Question whether you need to remove asbestos separately.
+
+Some demolition contractors may also offer asbestos removal if they hold the licence.
+
+## Can You Remove Asbestos Yourself?
+
+The rules depend on the type and amount of asbestos and the state or territory where the work is being done.
+
+In NSW, limited amounts of non-friable asbestos may be removed without a licence. However, any amount of friable asbestos requires a licensed asbestos removalist.
+
+Even where unlicensed removal is allowed, asbestos removal can still be dangerous.
+
+For this reason, homeowners should seriously consider using a licensed asbestos removalist.  Do not cut, drill, sand, grind or break suspected asbestos materials. Make sure you understand the risks and have the correct controls in place.
+
+[Get a Quote Now! →](/get-a-quote)
+
+## What Happens to Asbestos After Removal?
+
+Asbestos waste cannot simply be placed in a normal household rubbish bin.
+
+It needs to be handled, packaged, transported and disposed of according to state rules.
+
+In NSW, asbestos waste must be taken to a landfill or facility that is licensed to accept asbestos waste.
+
+Your asbestos removalist should be able to explain how the waste will be handled and diposed.
+
+When comparing an asbestos removal quote, ask whether disposal fees are included.
+
+## Asbestos Can Add to Your Demolition Cost
+
+Asbestos removal can increase the total cost of a demolition project.
+
+The final cost can depend on:
+
+- The amount of asbestos
+
+- The type of asbestos
+
+- Where it is located
+
+- How difficult it is to access
+
+- The condition of the material
+
+- Labour requirements
+
+- Safety controls
+
+- Waste transport
+
+- Disposal charges
+
+- Testing or inspection
+
+- Site access
+
+This is why it is important to identify asbestos before getting a final demolition quote.
+
+If asbestos is discovered after demolition has started, the work need to stop. Will only resume after asbestos is assessed, removed, and clearance certified.
+
+This can cause extra costs and delays.
+
+## How Demolition Quotes Can Help
+
+When you request demolition quotes, give contractors as much information about the property.
+
+Useful information includes:
+
+- Property address
+
+- Type of building
+
+- Approximate age of the building
+
+- Number of storeys
+
+- Garage or shed details
+
+- Photos of the house
+
+- Photos of suspected asbestos
+
+- Existing asbestos reports
+
+- Site plans
+
+- Access information
+
+- Any known hazards
+
+The more information you provide, the easier it can be for contractors to understand the job.
+
+If asbestos removal is required, make sure it is shown in the quote or arranged as a separate part of the project.
+
+## A Simple Demolition Timeline
+
+A demolition project may follow this general order:
+
+Demolition quote → Asbestos inspection → Asbestos removal → Clearance where required → House demolition → Waste removal → Final site clean-up
+
+The exact process will depend on the property, state or territory and on site conditions.
+
+The important point is that asbestos should be dealt with before demolition starts.
+
+## Questions to Ask Before Hiring a Contractor
+
+Before accepting a demolition or asbestos removal quote, ask:
+
+1. Has the property been checked for asbestos?
+
+2. Is asbestos removal included in the quote?
+
+3. If not, who will arrange asbestos removal?
+
+4. Is the asbestos removalist properly licensed?
+
+5. What type of asbestos has been identified?
+
+6. How much asbestos needs to be removed?
+
+7. Are waste transport and disposal included?
+
+8. Are testing or clearance costs included?
+
+9. What happens if more asbestos is found?
+
+10. Are there any extra costs I should know about?
+
+Getting clear answers before work starts can help prevent surprises later.
+
+## Get Your Demolition Project Ready
+
+Asbestos removal is an important part of demolition work on older Australian properties.
+
+Do not wait until the excavator arrives to think about asbestos.
+
+Check the property early. Get professional advice where needed and make sure asbestos removal is included.
+
+If you are comparing quotes, ask each contractor how they will deal with asbestos. Make sure the quote explains whether asbestos removal, disposal and clean-up are included.
+
+A clear demolition plan can help you understand the total cost and reduce delays.
+
+If you need quotes for your property, provide details on the house, site access and any known asbestos. This gives demolition contractors a better starting point when preparing your quote.`,
+  },
 {
     slug: 'how-to-prepare-your-house-for-demolition',
     title: 'How to Prepare Your House for Demolition in Australia',
@@ -137,7 +490,7 @@ It may be found in:
 
 - Other building materials
 
-If your house was built many years ago, arrange for a suitable professional to check for asbestos.
+If your house was built many years ago, arrange for a suitable professional to [check for asbestos](/blog/asbestos-removal-before-demolition).
 
 Do not break, cut or remove suspected asbestos materials yourself. Asbestos fibres can be dangerous when released into the air.
 
