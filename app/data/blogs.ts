@@ -27,6 +27,388 @@ Meta Description:
 Get a demolition quote for your house in Australia. Learn what to include, how to compare quotes, asbestos costs, permits and contractor checks.
 
 */
+  
+{
+    slug: 'how-to-prepare-your-house-for-demolition',
+    title: 'How to Prepare Your House for Demolition in Australia',
+    description:
+      'Check how to prepare your house for demolition in Australia, including approvals, utilities, asbestos, furniture, neighbours and site preparation',
+    keyword:'',
+    image:  '/images/blog/prepare house for demolition.jpg',
+    content: `
+Demolishing your house - Getting a demolition quote is an important first step. Once you have chosen a contractor, there are things you need to do before demolition begins. Preparing your house can help avoid delays, extra costs and problems with neighbours.
+
+House demolition involves more than knocking down a building. You may need council approvals, utility disconnections, furniture removal and other work.
+
+This guide explains how to prepare your house for demolition. What to check before accepting a demolition quote.
+
+## 1. Get a Demolition Quote
+
+Before starting any work, get a demolition quote from a suitable contractor.
+
+A [demolition quote should explain](/blog/what-should-be-included-in-a-demolition-quote) what work is included, what is excluded and what may cost extra. It should also make clear who is handling the preparing of the property.
+
+When requesting a demolition quote, provide details about:
+
+- Property address and location
+
+- House size and number of storeys
+
+- Construction type
+
+- Garage, shed or carport
+
+- Swimming pool and concrete areas
+
+- Site access
+
+- Known asbestos
+
+- Other structures to be removed
+
+- Your preferred demolition date
+
+Try to get more than one demolition quote so you can compare prices and the work included. Check whether the demolition quote includes waste removal, disposal fees, and site clean-up.
+
+Do not choose a contractor based on price alone. Make sure you understand what you are paying for before the work begins.
+
+## 2. Check Council Approvals and Permits
+
+Before demolishing your house, check which approvals are required for your property.
+
+Depending on your location and the type of building, you may need some approvals. They are development aproval, a complying development certificate or other permits.
+
+Requirements can vary between states, territories and local councils.
+
+Before planning a knockdown rebuild, check whether you need approval for new house. Check whethere you need seperate [approval for demolition](/blog/demolition-permit-australia) of the existing property.
+
+Ask your demolition contractor who will arrange the required approvals and notifications. Some contractors may manage parts of the process. While other tasks may be of your responsibility.
+
+Keep copies of all approvals and important documents. For more information, visit the [NSW Planning Portal – Demolition](https://www.planningportal.nsw.gov.au/development-and-assessment/planning-approval-pathways/complying-development/demolition).
+
+## 3. Disconnect Electricity, Gas and Water
+
+One of the most important steps before demolition is arranging disconnection of services.
+
+Services that may need to be disconnected include:
+
+- Electricity
+
+- Gas
+
+- Water
+
+- Sewer
+
+- Internet and telecommunications
+
+- Other underground services
+
+Contact the relevant service providers early, as disconnections may take time to arrange.
+
+Use licensed professionals where required. Do not attempt to disconnect electrical or gas services yourself.
+
+Ask your demolition contractor which services need to be disconnected. And who will arrange the work.
+
+Make sure the services are properly disconnected or made safe before demolition begins.
+
+You should check for underground pipes, cables and others that could be affected by the work.
+
+[Get a Quote Now! →](/get-a-quote)
+
+
+## 4. Check for Asbestos
+
+Asbestos is an important issue when preparing an older Australian house for demolition.
+
+It may be found in:
+
+- Roof sheets
+
+- Wall cladding
+
+- Eaves
+
+- Fencing
+
+- Garage walls
+
+- Vinyl floor tiles
+
+- Other building materials
+
+If your house was built many years ago, arrange for a suitable professional to check for asbestos.
+
+Do not break, cut or remove suspected asbestos materials yourself. Asbestos fibres can be dangerous when released into the air.
+
+If asbestos is found, arrange it to be removed by a suitably qualifiedprofessional.
+
+Ask your contractor whether asbestos inspection. Check whether removal and disposal are included in the quote or charged separately.
+
+You should also ask whether an asbestos clearance certificate will be provided.
+
+For more information, visit [Safe Work Australia – Demolition Work](https://www.safeworkaustralia.gov.au/duties-tool/construction/hazards-information/demolition-work).
+
+## 5. Remove Furniture and Personal Belongings
+
+Before the demolition date, remove all personal belongings from the house.
+
+This includes:
+
+- Furniture
+
+- Beds and mattresses
+
+- Clothes
+
+- Kitchen items
+
+- Electrical appliances
+
+- Documents
+
+- Photos
+
+- Tools
+
+- Personal valuables
+
+Check cupboards, wardrobes, sheds, garages and storage areas carefully.
+
+Do not leave items behind unless the contractor has agreed to remove them.
+
+Some contractors may charge extra to remove furniture, rubbish or household goods. Most of the time that are not part of the demolition work.
+
+If you have valuable timber, bricks, doors or other items you want to keep, discuss this with the contractor before the work starts.
+
+Make sure everything you want to keep is removed safely and before the demolition area becomes restricted.
+
+## 6. Remove Items You Want to Keep
+
+Some homeowners want to save useful materials before demolition.
+
+These may include:
+
+- Garden pots
+
+- Outdoor furniture
+
+- Gates
+
+- Bricks
+
+- Timber
+
+- Light fittings
+
+- Door handles
+
+- Appliances
+
+- Valuable plants
+
+Tell your contractor what you want to keep before accepting the demolition quote.
+
+Some items may need to be removed by a qualified tradesperson. Electrical fittings, gas appliances and other connected items should be handled safely.
+
+Do not enter the demolition area or remove items once the contractor has started work unless they have confirmed it is safe to do so.
+
+## 7. Notify Your Neighbours
+
+Demolition can cause noise, dust, truck movements and temporary access problems.
+
+It is a good idea to speak with your neighbours before work begins.
+
+Let them know:
+
+- When demolition is expected to start
+
+- How long the work may take
+
+- Whether trucks will use the street
+
+- Whether there may be noise or dust
+
+- Who they can contact if they have concerns
+
+Some approvals may require formal neighbour notification. Check the rules that apply to your property and make sure any required notices are given on time.
+
+Being open with neighbours can help prevent complaints and misunderstandings.
+
+If nearby homes share a driveway or access area, discuss this with your contractor before the demolition date.
+
+## 8. Prepare the Site for Machinery
+
+Demolition contractors need safe access for excavators, trucks and other machinery.
+
+Before work begins, check the site for:
+
+- Narrow driveways
+
+- Low tree branches
+
+- Overhead power lines
+
+- Parked vehicles
+
+- Gates and fences
+
+- Steep access areas
+
+- Shared driveways
+
+- Nearby structures
+
+- Limited truck turning space
+
+Tell your contractor about any access problems.
+
+Move vehicles and personal items away from the work area. Make sure the contractor knows about any structures, trees or fences that must remain.
+
+Your contractor may need temporary fencing, signs or safety measures before demolition starts.
+
+Do not enter the site once it has been fenced off without permission.
+
+## 9. Check the Demolition Quote Carefully
+
+Before the demolition date, read your demolition quote again.
+
+Make sure you understand exactly what the contractor will do. And what you need to organise yourself.
+
+Check whether the demolition quote includes:
+
+- House demolition
+
+- Garage and shed removal
+
+- Labour and machinery
+
+- Waste loading and transport
+
+- Tip and disposal fees
+
+- Asbestos removal
+
+- Concrete slab removal
+
+- Driveway removal
+
+- Utility disconnections
+
+- Site fencing
+
+- Site clean-up
+
+- Final site condition
+
+- GST
+
+Look carefully at exclusions and possible extra costs.
+
+For example, a demolition quote may include the house. But that may exclude the driveway, swimming pool, retaining walls or underground structures.
+
+If you want these items removed, ask the contractor to include them in the quote or provide a separate price.
+
+Get any changes or agreements in writing before work starts.
+
+[Get a Quote Now! →](/get-a-quote)
+
+## 10. Confirm the Demolition Date
+
+Once approvals and preparations are complete, confirm the start date with your contractor.
+
+Ask the contractor:
+
+- When will the machinery arrive?
+
+- How long should the demolition take?
+
+- When will waste be removed?
+
+- Who will manage site access?
+
+- What happens if bad weather causes delays?
+
+- When will the site be ready for the next stage?
+
+If you are building a new house, make sure the demolition schedule fits with your builder's plans.
+
+Avoid booking other trades until you have a clear idea of when the demolition site will be ready.
+
+## 11. Understand What Happens After Demolition
+
+Before the work starts, ask what condition the site will be left in.
+
+For example, will the contractor remove the slab, footings, driveway and other structures?
+
+Will the site be cleared of demolition waste? Will it be levelled or left ready for further excavation?
+
+These details are important if you are planning to build a new home.
+
+Do not assume that every demolition quote includes complete site preparation.
+
+Ask for the final site condition to be clearly stated in the quote.
+
+## House Demolition Preparation Checklist
+
+Use this checklist to help prepare your property before demolition begins.
+
+- Demolition quotes received and compared
+
+- Contractor selected
+
+- Scope of work confirmed
+
+- Required approvals obtained
+
+- Utility disconnections arranged
+
+- Underground services checked
+
+- Asbestos inspection completed where required
+
+- Asbestos removal arranged if needed
+
+- Furniture and personal belongings removed
+
+- Items to keep removed safely
+
+- Neighbours notified where required
+
+- Site access checked
+
+- Vehicles moved away from the work area
+
+- Temporary fencing arranged
+
+- Waste removal confirmed
+
+- Concrete and other structures confirmed
+
+- Demolition date confirmed
+
+- Final site condition agreed
+
+## Get Demolition Quotes Through DemoQuotes
+
+Preparing your house for demolition takes planning. But getting the right contractor can make the process easier.
+
+DemoQuotes allows homeowners to submit their project details online. So suitable demolition contractors can review the job and provide a quote.
+
+When requesting demolition quotes, provide accurate details about your property. Mention site access, buildings and any known hazards. This can help contractors understand the work and prepare a clearer price.
+
+Before accepting a demolition quote, check the inclusions, exclusions, possible extra costs. Mention responsibilities for approvals and utility disconnections.
+
+### Final Thoughts
+
+Preparing your house for demolition is important before knockdown, rebuild or redevelopment project.
+
+Arrange approvals early, disconnect utilities safely, check for asbestos. Remove personal belongings and speak with your neighbours before work begins.
+
+Most importantly, make sure your demolition quote clearly explains the work included. Ensure that the condition the site will be left in.
+
+Ready to start your project? Submit your details through DemoQuotes and connect with demolition contractors in Australia.`,
+  },
   {
     slug: 'what-should-be-included-in-a-demolition-quote',
     title: 'What Should Be Included in a Demolition Quote?',
@@ -609,7 +991,7 @@ You may also want some items left on the property.For example, you may want to k
 Tell the contractor exactly what needs to stay and what needs to go. A clear scope makes it easier for each contractor to quote the same job.
 
 ## Step 2: Provide Information About the Property
-The more information you provide, the easier it is for a contractor to prepare a useful demolition quote.
+The more information you provide, the easier it is for a contractor to [prepare a useful demolition quote](/blog/how-to-prepare-your-house-for-demolition).
 Try to provide:
 + Property address
 + Suburb and postcode
