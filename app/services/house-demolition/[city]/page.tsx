@@ -74,6 +74,10 @@ export async function generateMetadata({
       title: 'House Demolition Contractors | Free Quotes',
       description:
         'Find professional house demolition contractors and get free quotes.',
+        alternates: {
+    canonical:
+      `https://www.demoquotes.com.au/services/house-demolition/${city}`
+  },
     };
   }
 

@@ -1,11 +1,12 @@
+import type { Metadata } from 'next';
 import Script from "next/script";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import './styles/globals.css';  
 
-export const metadata = {
+export const metadata: Metadata = {
   metadataBase: new URL('https://www.demoquotes.com.au'),
-
+  
   title: 'DemolitionQuotes.com.au – Free Demolition Quotes',
   description:
     'Compare licensed demolition contractors across Australia. Get free residential, commercial, and concrete removal quotes.',

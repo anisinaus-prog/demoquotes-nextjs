@@ -5,6 +5,10 @@ export const metadata = {
   title: 'Get Free Concrete Removal Quotes in Australia',
   description:
     'Compare licensed concrete removal contractors across Australia. Get free, fast, no-obligation quotes for residential, commercial, and concrete removal projects.',
+    
+  alternates: {
+    canonical: 'https://www.demoquotes.com.au/services/concrete-removal',
+  },
 };
 
 export default function Layout({
