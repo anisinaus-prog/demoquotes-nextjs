@@ -4,7 +4,7 @@ import { suburbsOfSydney } from '@/app/data/suburbs';
 import { blogs } from '@/app/data/blogs'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://demoquotes.com.au';
+  const baseUrl = 'https://www.demoquotes.com.au';
 
   // City pages
   const cityUrls = [
