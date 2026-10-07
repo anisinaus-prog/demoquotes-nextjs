@@ -71,15 +71,20 @@ export async function generateMetadata({
 
   if (!data) {
     return {
+
       title: 'Asbestos Removal Contractors | Free Quotes',
       description:
         'Find asbestos removal contractors and get free quotes for asbestos removal services.',
+
     };
   }
 
   return {
     title: `${data.title} | Free Quotes`,
     description: data.description,
+         alternates: {
+        canonical: `https://www.demoquotes.com.au/services/asbestos-removal/${city}`,
+      },
   };
 }
 

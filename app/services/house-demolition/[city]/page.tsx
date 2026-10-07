@@ -68,22 +68,23 @@ export async function generateMetadata({
 }: Props): Promise<Metadata> {
   const city = params.city.toLowerCase();
   const data = cityData[city];
+  const canonical =
+    `https://www.demoquotes.com.au/services/house-demolition/${city}`;
 
   if (!data) {
     return {
       title: 'House Demolition Contractors | Free Quotes',
       description:
         'Find professional house demolition contractors and get free quotes.',
-        alternates: {
-    canonical:
-      `https://www.demoquotes.com.au/services/house-demolition/${city}`
-  },
     };
   }
 
   return {
     title: data.title,
     description: data.description,
+    alternates: {
+      canonical,
+    },
   };
 }
 export default function Page({ params }: { params: { city: string } }) {

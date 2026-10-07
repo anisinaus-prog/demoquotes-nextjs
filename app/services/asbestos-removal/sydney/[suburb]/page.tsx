@@ -38,6 +38,9 @@ export async function generateMetadata({
   return {
     title: `Asbestos Removal ${suburbName} | Free Quotes`,
     description: `Need asbestos removal in ${suburbName}? Compare asbestos removal contractors and get free quotes for your property.`,
+     alternates: {
+        canonical: `https://www.demoquotes.com.au/services/asbestos-removal/sydney/${suburb}`,
+      },
   };
 }
 

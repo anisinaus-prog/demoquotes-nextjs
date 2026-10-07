@@ -1,5 +1,4 @@
 import type { Metadata } from 'next';
-
 import { suburbsOfSydney } from '@/app/data/suburbs';
 import { getSuburbDemolitionContent } from '@/app/data/suburbContent';
 
@@ -30,7 +29,7 @@ export async function generateMetadata({
       title: 'House Demolition Sydney | Free Quotes',
       description:
         'Find professional house demolition contractors in Sydney and get free quotes.',
-    };
+         };
   }
 
   const suburbName = formatName(suburb);
@@ -38,6 +37,9 @@ export async function generateMetadata({
   return {
     title: `Get Free Quotes for House Demolition in ${suburbName}`,
     description: `Compare now your ${suburbName} house demolition prices. Find safe, reliable and licensed demolition contractors. Get free quotes today.`,
+ alternates: {
+        canonical: `https://www.demoquotes.com.au/services/house-demolition/sydney/${suburb}`,
+      },
   };
 }
 
