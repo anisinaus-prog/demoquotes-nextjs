@@ -27,6 +27,9 @@ export function generateMetadata({ params }: Props) {
   return {
     title: `${blog.title} | DemoQuotes`,
     description: blog.description,
+    alternates: {
+        canonical: `https://www.demoquotes.com.au/blog/${blog.slug}`,
+      },
   };
 }
 
