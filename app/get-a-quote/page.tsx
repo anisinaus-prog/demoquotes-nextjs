@@ -1,6 +1,16 @@
 import QuoteForm from '@/components/QuoteForm';
 import Link from 'next/link';
 
+export function generateMetadata() {
+  return {
+    title: `Get a Free Quote | DemoQuotes`,
+    description: 'Get a free quote for your demolition or construction project. No obligation, fast responses.',
+    alternates: {
+        canonical: `https://www.demoquotes.com.au/get-a-quote`,
+      },
+  };
+}
+
 export default function GetAQuotePage() {
   return (
     <main className="bg-slate-50">

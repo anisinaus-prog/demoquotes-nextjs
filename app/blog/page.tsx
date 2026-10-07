@@ -1,6 +1,16 @@
 import Link from 'next/link';
 import { blogs } from '@/app/data/blogs';
 
+export function generateMetadata() {
+  return {
+    title: `Demolition Blog | DemoQuotes`,
+    description: 'Helpful demolition tips, contractor advice, costs and guides for property owners across Australia.',
+    alternates: {
+        canonical: `https://www.demoquotes.com.au/blog`,
+      },
+  };
+}
+
 export default function BlogPage() {
   return (
     <main className="bg-white">
