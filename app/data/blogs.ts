@@ -1038,7 +1038,7 @@ Getting a clear demolition quote is an important step before starting your proje
 
 With DemoQuotes, homeowners can submit their demolition project details online instead of contacting contractors one at a time.
 
-[Get A  Quote Now!->]((/get-a-quote))
+[Get A  Quote Now!->](/get-a-quote)
 
 You can provide information about your property, location, house and demolition requirements. Suitable demolition contractors can then review your project and provide a quote.
 
@@ -1122,7 +1122,7 @@ For example, Contractor A might quote $25,000 and include waste removal. Contrac
 
 The second quote looks cheaper at first, but the final cost may be closer than you expect. Get a idea [How Much Does House Demolition Cost in Australia? (2026 Guide)](./demolition-cost-australia)
 
-[Get Your Demolition Quotes->]((/get-a-quote))
+[Get Your Demolition Quotes->](/get-a-quote)
 
 ## Look for Exclusions
 Exclusions are items that are not included in the quoted price. Always look for a section called:
@@ -1173,7 +1173,7 @@ Safe Work Australia says asbestos should be identified before demolition and asb
 
 Asbestos/leasd can make a large difference to the final project cost, so it should not be overlooked when comparing quotes.
 
-[Get A  Quote->]((/get-a-quote))
+[Get A  Quote->](/get-a-quote)
 
 ## Check Concrete and Other Structures
 The main house may not be the only thing you want removed. Your project could also include:
@@ -1278,7 +1278,7 @@ Before choosing a demolition contractor, check:
 + Start date is clear
 + Expected completion time is clear
 
-[Get Your Demolition Quotes->]((/get-a-quote))
+[Get Your Demolition Quotes->](/get-a-quote)
 
 The best way to compare demolition quotes is to make sure you are comparing the same work. A low price may not include everything you need. A higher price may include waste removal, concrete removal, asbestos work and site clean-up.
 
@@ -1558,7 +1558,7 @@ Some small jobs, like removing a fence or a small garden shed, might not need a 
 
 Skipping your demolition permit can lead to big problems. Councils can issue fines, and you may be asked to stop work straight away. In some cases, you could even be told to rebuild part of the structure. This can end up costing far more than the approval itself would have. It's always smarter and safer to get the right approvals before any work begins.
 
-Know more on [How Much Does House Demolition Cost in Australia?](/demolition-cost-australia)
+Know more on [How Much Does House Demolition Cost in Australia?](/blog/demolition-cost-australia)
 
 ## How to Apply for a Demolition Permit
 
@@ -1587,7 +1587,7 @@ Each state handles these rules a little differently. For example, in Victoria, y
 
 Most permit applications take one to four weeks to get approved. This can change based on your council and how busy they are. It also depends on if your application is complete. Missing paperwork is a big reason why applications get delayed. So it helps to check everything before you send it in.
 
-Know more on [How Long Does It Take to Demolish a House?](/demolition-timeline-australia)
+Know more on [How Long Does It Take to Demolish a House?](/blog/demolition-timeline-australia)
 
 ## Tips for Getting Your Demolition Permit Fast
 
@@ -1621,7 +1621,7 @@ In this guide, we'll walk you through the usual demolition process in Australia.
 
 A demolition timeline is a list of steps. These steps happen before, during, and after a house is knocked down. Most house demolitions in Australia take one to three weeks. But your demolition timeline can change. This depends on your house size, your permits, and if asbestos is found on site.
 
-know more on [Do I Need a Demolition Permit?](/demolition-permit-australia)
+know more on [Do I Need a Demolition Permit?](/blog/demolition-permit-australia)
 
 ## Step 1: Getting Permits and Approvals
 
@@ -1667,7 +1667,7 @@ Getting a clear demolition quote early on helps you plan the whole job properly.
 4. Check if the quote includes permits, or if you need to sort these yourself.
 5. Make sure the contractor is licensed and insured.
 
-Know more on [How Much Does House Demolition Cost in Australia?](/demolition-cost-australia)
+Know more on [How Much Does House Demolition Cost in Australia?](/blog/demolition-cost-australia)
 
 
 A good demolition quote should always include a rough timeframe, not a price. This way, you know what to expect from start to finish.
@@ -1702,7 +1702,7 @@ Several things can push the price up or down. Here are the main factors worth kn
 
 Bigger houses cost more to knock down. A small one-bedroom cottage will usually be much cheaper to pull down than a large two-storey family home. More materials, more waste, and more labour all add up quickly.
 
-know more on [How Long Does It Take to Demolish a House?](/demolition-timeline-australia)
+know more on [How Long Does It Take to Demolish a House?](/blog/demolition-timeline-australia)
 
 ### 2. Location
 
@@ -1758,7 +1758,7 @@ The best way to understand your true demolition cost is to compare demolition qu
 Read more about [How to Compare Demolition Quotes in Australia](./how-to-compare-demolition-quotes)
 Most councils across Australia need a demolition permit before any work can start. You can check your local requirements on your council's website, or through the [NSW Planning Portal](https://www.planningportal.nsw.gov.au/) if you're based in New South Wales.
 
-know more on [Do I Need a Demolition Permit?](/demolition-permit-australia)
+know more on [Do I Need a Demolition Permit?](/blog/demolition-permit-australia)
 
 ## Tips to Lower Your Demolition Cost
 
