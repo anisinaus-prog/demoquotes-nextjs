@@ -134,6 +134,7 @@ export default function Page({ params }: { params: { city: string } }) {
             House Demolition Services in {params.city}
           </h2>
 
+
           <div className="mt-12 grid gap-8 md:grid-cols-3">
             {[
               {
@@ -196,8 +197,10 @@ export default function Page({ params }: { params: { city: string } }) {
           <h2 className="text-4xl font-extrabold">
             Need House Demolition in {params.city}?
           </h2>
-
+          
           <p className="mt-5 text-lg text-orange-50">
+            Looking for demolition quotes in your local area? DemoQuotes helps property owners compare demolition contractors across Sydney. We connect customers with contractors who service areas including Blacktown, Campbelltown, Liverpool, Parramatta, Penrith and surrounding suburbs.
+            <br/>
             Get a fast, free, no-obligation quote from local experts.
           </p>
 

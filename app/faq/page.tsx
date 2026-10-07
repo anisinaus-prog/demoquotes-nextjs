@@ -126,7 +126,7 @@ export default function FAQPage() {
             </a>
 
             <a
-              href="/get-quote"
+              href="/get-a-quote"
               className="rounded-2xl bg-white px-8 py-4 text-lg font-bold text-orange-600 hover:bg-orange-50 transition"
             >
               Get Free Quote
